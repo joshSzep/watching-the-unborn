@@ -88,14 +88,24 @@ Power ruins this story. Do not add it.
 
 ## Tone and Style Rules
 
-- Clinical language is preferred.
-- Emotional language must emerge indirectly.
-- Do not explain feelings. Show them through repetition, omission, and pattern.
-- Avoid poetic excess. Precision beats beauty.
+- Clinical and lyrical coexist. The prose can be precise and still have rhythm.
+- Sentence structure should vary—fragments, long sentences, turns. Not monotone.
+- Imagery should earn its presence. Metaphors that don't overreach.
+- White space matters. Silence and pause are punctuation.
+- Emotion arrives through pattern, repetition, and restraint—not declaration.
+- If something feels profound, underwrite it. But underwriting is not flatness.
+- Avoid poetic excess, but allow the poetic to emerge from observation.
 - Avoid sentimentality. Especially avoid hope as a theme.
-- If something feels profound, underwrite it.
 
-The prose should feel calm even when the implications are not.
+The prose should feel calm even when the implications are not. It should have texture without ornamentation.
+
+### Specific Techniques
+- Parallelism as a structural tool ("not fear exactly. Something closer to...")
+- Sentences that turn on themselves ("the distance felt both accidental and chosen, the way most distances do")
+- Concrete detail that carries unspoken weight (the vacuum tracks on the carpet, the oil stains in the parking structure)
+- Endings that land quietly but resonate (a final image, not a summary)
+- Dialogue that withholds more than it reveals
+- The space between what characters say and what they mean
 
 ### Aria's Voice
 - Emotion leaks through—she's still a human mind.
