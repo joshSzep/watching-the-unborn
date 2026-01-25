@@ -1,6 +1,6 @@
 # Outline
 
-34 chapters. Descriptive titles. ~3,000 words average.
+33 chapters. Descriptive titles. ~3,000 words average.
 
 ---
 
@@ -82,36 +82,33 @@ Aria stays awake. Time is squishy. The weight of what she now knows. The reframi
 Aria confronts Jason. He knew. He kept quiet. His response: compassion, equanimity, trying to help her understand.
 
 ### Chapter 24: Jason's Way
-More conversations with Jason. The Buddhist perspective. Suffering. Letting go. The view Aria is beginning to grasp.
+More conversations with Jason. The Buddhist perspective. Suffering. Letting go. The view Aria is beginning to grasp. Jason dies. True solitude begins.
 
-### Chapter 25: Jason's Death
-Jason dies. Refuses upload. The last person who knew Wren is gone. True solitude begins.
-
-### Chapter 26: The Long Watch
+### Chapter 25: The Long Watch
 Time passing. Dormancy increasing. Waking for events. The clinic changing hands. The eggs persisting.
 
-### Chapter 27: The Close Call
+### Chapter 26: The Close Call
 A crisis. Infrastructure failure, or policy threat, or something else. Aria's persistence makes the difference—or does it?
 
-### Chapter 28: The World Changed
+### Chapter 27: The World Changed
 Waking after a long dormancy. The world unrecognizable. New systems, new language, new institutions. The eggs still there.
 
-### Chapter 29: Archaic
+### Chapter 28: Archaic
 The eggs are now old technology. Obsolete format. Finding someone willing to use them is the new challenge.
 
-### Chapter 30: The Search
+### Chapter 29: The Search
 Aria actively searching for a recipient. Filing forms, making contacts, navigating systems that keep changing.
 
-### Chapter 31: Another Crisis
+### Chapter 30: Another Crisis
 Another close call. Her own hosting this time, or the eggs, or both. The precariousness of persistence.
 
-### Chapter 32: The Match
+### Chapter 31: The Match
 A stranger looking for something. Aria's centuries of keeping the eggs visible. A convergence. The transfer begins.
 
-### Chapter 33: The Transfer
+### Chapter 32: The Transfer
 Paperwork. Approvals. The eggs leave Aria's custody. No direct contact with the stranger. A closed file.
 
-### Chapter 34: The Question
+### Chapter 33: The Question
 Aria awake. Purposeless. Thinking about Wren, about Jason, about the choice they made. The question she's now facing. The book ends.
 
 ---
