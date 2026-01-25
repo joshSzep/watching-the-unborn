@@ -86,7 +86,7 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 
 ---
 
-## Part Three: The Long Solitude (Chapters 25-33)
+## Part Three: The Long Solitude (Chapters 25-32)
 *Inside Aria's perspective. ~464 years. Time compressed, blurred, impressionistic.*
 
 ### Chapter 25: The Long Watch
@@ -108,13 +108,10 @@ Aria actively searching for a recipient. Filing forms, making contacts, navigati
 Aria's hosting is flagged—847% over baseline. Engagement has a price. The choice: go dormant and persist indefinitely, or stay engaged and deplete resources. Continuity verification. She chooses to keep spending herself. Forty-three years becomes thirty-one. The question isn't whether to end, but how to spend the time before ending.
 
 ### Chapter 31: The Match
-A stranger looking for something. Aria's centuries of keeping the eggs visible. A convergence. The transfer begins.
+A stranger's inquiry. Anticlimactic after five centuries—just another notification. The opaque stranger: no name, no reasons, just a request. Aria approves. The transfer happens through regulated channels. The eggs leave her custody. Account closed. "What now?"
 
-### Chapter 32: The Transfer
-Paperwork. Approvals. The eggs leave Aria's custody. No direct contact with the stranger. A closed file.
-
-### Chapter 33: The Question
-Aria awake. Purposeless. Thinking about Wren, about Jason, about the choice they made. The question she's now facing. The book ends.
+### Chapter 32: The Question
+Aria awake. Purposeless. Thinking about Wren, about Jason, about the choice they made. The question she's now facing. The book ends at the edge of decision.
 
 ---
 
