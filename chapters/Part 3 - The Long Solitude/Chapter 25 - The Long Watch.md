@@ -109,7 +109,7 @@ Seventy years uploaded.
 
 The world outside had changed in ways I only half-tracked. New systems of governance. New economic structures. New ways of being human that I observed from a distance like someone watching weather patterns—relevant only when they threatened to touch what I was protecting.
 
-I still had the same avatar. Mid-twenties. Dark hair. I'd thought about changing it once, aging it to match the years I'd accumulated. But the avatar was a costume, not a self. And I'd stopped thinking of my appearance as something that required maintenance.
+I still had the same avatar. Mid-twenties. Dark hair. Wren's ears. I'd thought about changing it once, aging it to match the years I'd accumulated. But the avatar was a costume, not a self. And I'd stopped thinking of my appearance as something that required maintenance.
 
 The eggs remained viable.
 
