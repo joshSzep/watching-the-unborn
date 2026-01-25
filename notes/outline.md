@@ -7,40 +7,40 @@
 ## Part One: Human Aria (Chapters 1-12)
 *Third person, neutral angle. ~30 years. Observing from outside.*
 
-### Chapter 1: The Waiting Room ✓
+### Chapter 1: The Waiting Room
 The clinic visit. Aria and Wren in the waiting room. Forms. The hallway Aria can't enter. The eggs go into storage.
 
-### Chapter 2: After the Divorce ✓
+### Chapter 2: After the Divorce
 Recent past. Wren's marriage to Bryce ending. Wren finding Buddhism. Aria processing the loss of the future she expected.
 
-### Chapter 3: Jason ✓
+### Chapter 3: Jason
 Wren introduces Jason to Aria. The beekeeper. The man who replaced the cop. Aria's initial reservation, then warming.
 
-### Chapter 4: The Dinner ✓
+### Chapter 4: The Dinner
 A gathering: Aria, Wren, Jason. The dynamic between them. Warmth through friction. What's said and unsaid.
 
-### Chapter 5: Renewal ✓
+### Chapter 5: Renewal
 Years passing through renewal notices. Aria pays. Jason's pneumonia scare. Wren takes over payments. Aria's diagnosis. The upload first mentioned.
 
-### Chapter 6: The Question ✓
+### Chapter 6: The Question
 Aria asks Wren about grandchildren. Wren deflects. "I froze the eggs because you asked me to." The conversation that goes nowhere. Wren's wedding announcement.
 
-### Chapter 7: The Practice ✓
+### Chapter 7: The Practice
 Wren and Jason's Buddhist life. The wedding. Aria observing from outside. The sangha. Jason's cracks: the phone, the withdrawal. A world she doesn't understand but accepts.
 
-### Chapter 8: Aria Aging ✓
+### Chapter 8: Aria Aging
 Years passing. Aria's body beginning to slow. The falls. Looking at ground-floor units. Consultation at the upload facility.
 
-### Chapter 9: The Offer ✓
+### Chapter 9: The Offer
 The evaluations. The conversation with Wren: "Mom, I'm not a story." "Everything is always unfinished." The contract signed.
 
-### Chapter 10: The Conversation ✓
+### Chapter 10: The Conversation
 The last three months. Goodbyes. Jason at the hives. The clinic visit. Wren's final honesty: "I don't want you to do this." The secret about Wren's father.
 
-### Chapter 11: The Facility ✓
+### Chapter 11: The Facility
 The upload facility. Preparation. Wren admits her own attachment. The last hug. The sedation begins.
 
-### Chapter 12: The Procedure ✓
+### Chapter 12: The Procedure
 The upload. Waking without body. Choosing the avatar. The first call with Wren. "The real end." The eggs still there. The watching begins.
 
 ---
