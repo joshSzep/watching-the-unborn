@@ -33,7 +33,7 @@
   - Staying awake, processing
   - Conversations with Jason
   - Jason's death
-  - The long solitude begins
+  - True solitude begins
   - Close calls with the eggs (multiple, across centuries)
   - Close calls with her own hosting
   - The search for a recipient
@@ -42,7 +42,7 @@
   - Technology making the eggs archaic
   - The stranger, the transfer
   - Losing access
-  - The ending: awake, purposeless, weighing the choice
+  - The ending: awake, present, finally enough
 
 ## Time Handling
 - Early: Clear dates, grounded

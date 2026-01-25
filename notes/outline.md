@@ -86,7 +86,7 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 
 ---
 
-## Part Three: The Long Solitude (Chapters 25-33)
+## Part Three: Finally Aria (Chapters 25-33)
 *Inside Aria's perspective. ~294 years. Time compressed, blurred, impressionistic.*
 
 ### Chapter 25: The Long Watch
