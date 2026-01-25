@@ -20,7 +20,19 @@ She sighed. Behind her, the familiar bookshelf, the bronze Buddha, the photograp
 
 "Until it isn't managed. Until something goes wrong. Until—"
 
-"Until I die?" She said it flatly, without emotion. "Yes. Eventually. That's how it works."
+I stopped myself. But too late.
+
+"Until I die like Dad did?" Wren finished the sentence I couldn't. "You can say it. Heart attack at thirty-four. I know the story."
+
+The story. As if it were something I'd told her rather than something I'd lived. As if she could understand what it meant to hold a baby in one arm and feel for a pulse with the other hand, knowing already there wouldn't be one. To have the paramedics arrive and take him away while Wren slept through it all, three months old, oblivious.
+
+"That was different."
+
+"Was it? He had high blood pressure too. Undiagnosed. Untreated. And then one morning he didn't wake up." Wren's voice was calm, almost gentle. "I've had mine monitored for twenty years, Mom. I take my medication. I see my doctor. I'm doing everything right."
+
+"Everything right isn't always enough."
+
+"No. It isn't. But that's true for everyone. Uploaded or not." She paused. "I'm going to die, Mom. Eventually. That's how it works."
 
 I should have stopped there. I should have taken a breath, changed the subject, let the moment pass. But I didn't. Couldn't.
 
