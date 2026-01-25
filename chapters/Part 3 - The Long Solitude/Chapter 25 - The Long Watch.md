@@ -1,117 +1,190 @@
 # Chapter 25: The Long Watch
 
-The first decade was the hardest.
+The first year without Jason, I stayed awake.
 
-Not because anything happened—nothing happened, that was the point—but because I was still calibrated for human time. I expected events. Conversations. The rhythm of weeks and months that had structured my existence since the upload. Without Wren, without Jason, without anyone to mark the passing of days, time became a formless thing. A substance I moved through without landmarks.
+Not watching anything in particular. The eggs were stable. The clinic was stable. The world continued its slow churn outside my window onto the network, but I didn't look at it. I existed in a space that wasn't quite thinking and wasn't quite not-thinking—a kind of waking dormancy, present but not engaged.
 
-I stayed awake, at first. Checking the dashboard. Reading the news. Watching the world change in ways that didn't concern me. The clinic was stable. The eggs were viable. The fees came due and were paid. Everything worked the way it was supposed to work, and I had nothing to do but watch it work.
+The figuring out was never the point.
 
-By the fifth year, I started experimenting with dormancy.
+I turned the phrase over like a stone in my palm. Jason had said it about Wren, but he'd also said it about everything else. The bees. The Buddhism. The watching.
 
-Short periods at first. A week here, a month there. I would set a wake condition—any change in the storage account, any notification from the clinic—and let myself sink into the nothing. It wasn't sleep. There were no dreams, no sense of time passing. I would close my eyes in March and open them in April, and the gap between would be empty. Not forgotten, just absent. A splice in the film of consciousness.
+I'd spent thirty-one years trying to understand why Wren froze the eggs if she never wanted children. Trying to understand why she disapproved of the upload but showed up anyway. Trying to understand the distance between what she wrote in private and what she said to my face.
 
-The dormancy was easier than I expected. The waking was harder.
+The figuring out was never the point.
 
-Each time I came back, I had to reorient. Check the date. Scan the logs for anything I might have missed. Confirm that the eggs were still there, still viable, still waiting. The ritual took longer each time, as the gaps grew wider and the world changed more between sleeps.
-
-But the word was always the same. Viable. The eggs persisted. And so did I.
+Maybe the watching was.
 
 ---
 
-The clinic changed hands for the second time in 2178.
+Forty-three years after the upload. Seven years without Jason.
 
-I woke to a notification: Meridian Health Partners had been acquired by a consortium I had never heard of. New name, new branding, new systems. The dashboard looked different again—sleeker, more abstracted, the numbers hidden behind layers of interface that took me days to learn.
+I woke to a notification: Meridian Health Partners had been acquired by BioHeritage Partners. The storage facility would transfer to their network. All contracts would be honored. No action required.
 
-But the eggs were there. Fourteen oocytes. Status: viable.
+I read the notice three times. Then I logged into the account and checked the status.
 
-I filed the necessary forms to update my contact information, my payment methods, my emergency protocols. The bureaucracy had evolved since the last transition—more automated now, fewer human touchpoints—but the process was familiar. I had done this before. I would do it again.
+*Unit #CR-7891-W
+Status: Viable
+Storage Location: Transfer pending
+Next Verification: [To be scheduled]*
 
-The third transition came in 2215. The fourth in 2267. Each time, I woke, reoriented, filed forms, confirmed viability, and returned to dormancy. The intervals between wakings grew longer. Decades at a time, sometimes. The world outside my vigil became increasingly abstract—a stream of data I skimmed without engaging, changes that didn't affect the one thing I cared about.
+I filed a request for transfer documentation. I filed a request for updated contact information. I filed a request for confirmation that the chain of custody would be preserved.
 
-The eggs remained. The watching continued. Everything else was noise.
+Three forms. Seventeen fields. A portal that kept timing out.
 
----
-
-Somewhere in the third century, I stopped counting years.
-
-The numbers had become meaningless. What difference did it make whether I had been uploaded for two hundred years or three hundred? The eggs were the same. The vigil was the same. The question I couldn't answer was the same.
-
-I measured time differently now. By transfers. By acquisitions. By the slow evolution of the systems that held the eggs in suspension. Each change was a marker, a notch in a timeline that had lost all other shape.
-
-Transfer one: Los Angeles to San Diego. 2143.
-Transfer two: San Diego to Phoenix. 2198.
-Transfer three: Phoenix to a facility I couldn't locate on any map I recognized. 2251.
-
-The geography of fertility preservation had shifted. The old networks had consolidated, fragmented, reconsolidated. Names changed. Interfaces changed. The underlying technology changed—new preservation methods, new storage protocols, new ways of maintaining viability across spans of time that the original designers had never imagined.
-
-But the eggs adapted. Or rather, the systems adapted around them. Each transition required new forms, new certifications, new confirmations that the genetic material was still worth preserving. I provided them all, patiently, persistently, the way I had always done.
-
-The bureaucracy didn't know what I was. The forms asked for my relationship to the stored material—mother, donor, authorized representative—and I checked the boxes that seemed most accurate, knowing that none of them captured the truth. I was the watcher. I was the one who remained. I was the thread that connected these frozen cells to a person who had been dead for centuries.
-
-The forms didn't have a box for that.
+The work of persistence.
 
 ---
 
-I dreamed, sometimes.
+The transfer took four months.
 
-Not in dormancy—dormancy was empty, a gap in existence—but in the wakeful hours, when I floated in my digital space and let my mind drift. The dreams weren't like the dreams I remembered from having a body. They were more like memories that had come unmoored, replaying in fragments without narrative or sequence.
+Not the physical movement—that happened in three days. But the administrative reconciliation. The matching of records across systems that used different taxonomies, different identifiers, different assumptions about what constituted a complete file.
 
-Wren at thirty, laughing at something I couldn't hear.
+I tracked every step. I filed clarification requests when the status showed inconsistencies. I escalated to human review when the automated systems flagged discrepancies.
 
-Jason's hands moving over the frames of a hive, gentle and precise.
+On the forty-seventh day, the eggs appeared in Meridian's database with a new identifier: MHS-BIO-2163-CR7891W. The status field said *pending verification*. I filed a request for expedited verification. I received an automated acknowledgment. I waited.
 
-My mother's kitchen, the smell of bread baking, a voice reciting verses I hadn't thought about in two hundred years.
+On the sixty-third day, the status changed to *verified - viable*.
 
-The dashboard, always the dashboard, the numbers glowing in a space that wasn't space, the word that never changed.
-
-*Viable.*
-
-The dreams weren't comforting. They were reminders of everything I had lost, everything I had outlived. But I didn't try to stop them. They were the only company I had, these ghosts of a life that had ended long ago.
+I let myself go dormant for the first time since Jason's death.
 
 ---
 
-In the fourth century, I began to wonder if the eggs would outlast me.
+Waking was strange.
 
-The thought arrived without warning, during a routine check after a decade of dormancy. I was scanning the logs, confirming viability, when it occurred to me: I didn't know how long I could persist. The upload technology had promised indefinite existence, but indefinite wasn't the same as infinite. Servers failed. Networks collapsed. The infrastructure that maintained my consciousness required maintenance, funding, continuity of care.
+Not the process—that was instantaneous, like it had always been. But the orientation. I'd been dormant for eight months, and when I surfaced, the first thing I did was check the account.
 
-What happened when those things faltered?
+Viable.
 
-I had always assumed I would be here to watch over the eggs. That was the bargain I had made with myself, the justification for my continued existence. But what if I was wrong? What if the eggs persisted and I didn't? What if, after all this time, they outlasted the watcher?
+The second thing I did was check the date. I'd lost eight months. Just... gone. Not asleep exactly—uploaded minds don't sleep. More like paused. A gap in continuity that felt like nothing from the inside.
 
-The thought was strangely comforting.
+I thought about all the years I'd spent awake, circling the same questions. All the hours I'd logged into the storage account, watching status fields that never changed. All the attention I'd poured into a holding pattern that required, if I was honest, almost none.
 
-Not because I wanted to end—I didn't, not exactly—but because it meant the eggs didn't need me. They had never needed me, not really. The systems that preserved them would function whether I watched or not. My vigilance was a comfort to me, not to them. If I disappeared tomorrow, the eggs would remain, frozen and waiting, until someone used them or the infrastructure finally failed.
+The dormancy had felt like nothing. And the waking felt like nothing too—just a transition from one state to another, no different than closing and opening a browser tab.
 
-I wasn't necessary. I had never been necessary.
-
-But I stayed anyway. Because the watching was all I had. Because without it, I was just a pattern running on hardware, existing for no reason, persisting out of inertia rather than purpose.
-
-The eggs gave me something to do. Something to check. Something to care about, even if the caring changed nothing.
-
-It wasn't enough. Jason had been right about that. But it was what I had.
+Maybe this was how the next stretch would go. Dormant, waking, checking, dormant again. A rhythm instead of a vigil.
 
 ---
 
-The centuries blurred.
+Fifty years uploaded.
 
-I stopped trying to track the transitions, the acquisitions, the changes in the world outside my vigil. I set my wake conditions and let the dormancy take me, trusting the systems to alert me if anything required my attention.
+I'd settled into a pattern. Dormant for weeks or months at a time. Waking for notifications—account updates, policy changes, verification reminders. Filing whatever needed filing. Going back under.
 
-Sometimes I woke for crises—a payment failure, a policy change, a transfer that required authorization. I handled them the way I had always handled them: patiently, persistently, one form at a time. Then I returned to the nothing, letting the years slide past like water.
+The clinic had changed names twice since Meridian. First to BioHeritage Partners, some kind of consortium. Then to something simply called Archive.
 
-Sometimes I woke for no reason I could identify. A glitch in the system, maybe, or a threshold I had set and forgotten. I would check the dashboard, confirm viability, and wonder why I had bothered to wake at all.
+Archive. As if the eggs were documents. As if Wren was a record to be preserved.
 
-The eggs were always there. The word was always the same.
+I thought about filing a complaint about the name. Then I thought about what that complaint would accomplish—nothing—and let it go.
 
-*Viable.*
+The eggs were viable. That was what mattered. Not what the institution called itself or what terminology it used or how it categorized its inventory.
 
-I held onto it like a lifeline. The only constant in a world that had become unrecognizable. The only proof that my watching meant something, that my existence had a point.
+Inventory. I'd started thinking of them that way too. Not my daughter's eggs. Not Wren's cells. Just a line item in a database, a unit in storage, a thing that persisted because systems were designed to persist and I paid the fees that kept the systems running.
 
-But the lifeline was fraying. I could feel it, in the long stretches between wakings, in the dreams that came less often now, in the growing distance between who I had been and what I had become.
+The reframing should have felt like loss. It didn't. It felt like clarity.
 
-I was still Aria. I told myself that, repeated it like a mantra, the way I repeated *viable* when I checked the dashboard. I was still the woman who had frozen her daughter's eggs, who had uploaded to keep watching, who had loved and lost and persisted through it all.
+---
 
-But the woman felt very far away now. A memory of a memory. An echo fading into silence.
+I woke to an alert I hadn't seen before.
 
-The eggs remained. The vigil continued.
+*Policy Update: Legacy Biological Assets*
+*Effective 2178-03-01*
+*All accounts inactive >10 years subject to review*
 
-And somewhere in the blur of centuries, I stopped wondering why.
+I read the notice carefully. The language was dense—legal boilerplate wrapped in medical terminology—but the core was clear. Archive was cleaning house. Accounts that hadn't shown activity in more than a decade would be flagged for potential discontinuation.
+
+My account had been active forty-seven days ago. I'd logged in to confirm a verification. But the notice made me check anyway—check the last login date, check the activity log, check every field that might constitute *activity* under whatever definition the policy used.
+
+The eggs were fine. The account was fine. But the notice had done its work: I was awake now, alert, the dormancy broken by a threat that wasn't quite a threat.
+
+I stayed awake for six more months, just to be safe. I logged in weekly. I filed requests for status updates I didn't need. I generated activity, left footprints, made sure the system knew I was still watching.
+
+Then the policy was revised—ten-year threshold raised to twenty-five, inactive accounts given ninety days notice before review—and I let myself go dormant again.
+
+But I set a reminder this time. Every six months, wake up. Check in. File something.
+
+The watching had become a practice. Not constant attention but periodic confirmation. Not a vigil but a rhythm.
+
+---
+
+Seventy years uploaded.
+
+The world outside had changed in ways I only half-tracked. New systems of governance. New economic structures. New ways of being human that I observed from a distance like someone watching weather patterns—relevant only when they threatened to touch what I was protecting.
+
+I still had the same avatar. Mid-twenties. Dark hair. Wren's nose. I'd thought about changing it once, aging it to match the years I'd accumulated. But the avatar was a costume, not a self. And I'd stopped thinking of my appearance as something that required maintenance.
+
+The eggs remained viable.
+
+I'd learned to read the status field without hoping. Without dreading. Just reading—a data point, a fact, a thing that was true until it wasn't.
+
+Viable.
+
+The word had become a kind of punctuation. The thing I checked before going dormant and after waking. The single fact that justified my persistence.
+
+I didn't examine why it justified my persistence. I didn't ask what the eggs' viability had to do with my own. The questions were there, underneath everything, but I'd learned not to look directly at them.
+
+The figuring out was never the point.
+
+---
+
+Archive sent a notice about updated verification protocols.
+
+The eggs would now be assessed annually instead of biannually. New imaging technology. More precise measurements of cellular integrity. Better predictions of long-term viability.
+
+I read the notice and felt something I hadn't felt in years: hope. Not hope for anything specific—not hope for a recipient or a child or a connection. Just hope that the eggs would continue. That they would still be there, still viable, still waiting.
+
+The hope surprised me. I'd thought I was past it. I'd thought I'd settled into a watchfulness that didn't require emotion—just attention, just maintenance, just the steady work of persistence.
+
+But the hope was there. Smaller than it had been, quieter, more like a habit than a feeling. But there.
+
+I wondered if Wren had felt this way about her sutras. The texts she returned to again and again, not because she expected enlightenment but because the returning was the practice.
+
+The eggs were my sutra. The viable status was my mantra. The watching was my meditation.
+
+I was becoming something Wren would have recognized, even if she wouldn't have approved.
+
+---
+
+Eighty years uploaded.
+
+I woke to find the interface had changed. New design paradigm. New navigation. New terminology throughout.
+
+It took me three days to find the account status. Not because the information was hidden—it was right there, under a menu I hadn't recognized—but because the framework had shifted enough that my assumptions no longer mapped.
+
+The eggs were viable. Still. The word hadn't changed, even if everything around it had.
+
+I spent a week learning the new system. Not because I needed to—the basic functions were intuitive enough—but because the learning gave me something to do. A reason to stay awake. A task beyond simple maintenance.
+
+I thought about how Wren used to describe meditation. The practice isn't about achieving anything. It's about returning. You notice you've wandered, and you return to the breath. Over and over.
+
+I'd wandered into dormancy. Now I was returning to the watching. The interface change was just the breath that brought me back.
+
+---
+
+Ninety years uploaded.
+
+I received a query from the system—some kind of account maintenance survey, automated, impersonal.
+
+*Please confirm your relationship to the biological material stored under account MHS-BIO-2163-CR7891W.*
+
+I stared at the question for a long time.
+
+My relationship. To the eggs. To Wren's cells, preserved before Wren knew she didn't want them preserved. To the potential that Wren had never intended, that I had reframed into the last thread connecting me to her body.
+
+I typed: *Mother of the donor.*
+
+The system accepted the answer. The survey continued with questions about contact preferences and notification settings. I answered them mechanically, confirmed my information, submitted the form.
+
+Mother of the donor.
+
+It was true. It had always been true. But seeing it typed out, reduced to a database field, made me feel the distance between what the words meant and what they contained.
+
+Wren was the donor. I was the mother. And somewhere in a facility I'd never visited, in a storage unit I'd never seen, cells that had once been inside my daughter waited for something I couldn't give them.
+
+I went dormant after that. For a long time. I don't remember how long.
+
+When I woke, the first thing I did was check the status.
+
+Viable.
+
+The word was there. The eggs were there. And I was there, still watching, still waiting.
+
+The long watch continued.
