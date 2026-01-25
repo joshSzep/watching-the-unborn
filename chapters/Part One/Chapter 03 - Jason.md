@@ -54,7 +54,7 @@ Jason laughed. It was a good laugh—unforced, the kind that comes from finding 
 
 ---
 
-The pho arrived, and they ate, and the conversation moved in the way conversations do when three people are trying to become four. Jason asked about Aria's work—not the polite questions of someone pretending to be interested, but the specific questions of someone who actually wanted to understand. What did an actuary do, exactly? How did you calculate risk for things that hadn't happened yet? Did she ever feel strange, spending her life thinking about death?
+The pho arrived, and they ate, and the conversation moved in the way conversations do when two people are trying to become three. Jason asked about Aria's work—not the polite questions of someone pretending to be interested, but the specific questions of someone who actually wanted to understand. What did an actuary do, exactly? How did you calculate risk for things that hadn't happened yet? Did she ever feel strange, spending her life thinking about death?
 
 "Not strange," Aria said. "It's just math. The math doesn't care about meaning."
 
