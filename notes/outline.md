@@ -84,6 +84,11 @@ Aria confronts Jason. He knew. He kept quiet. His response: compassion, equanimi
 ### Chapter 24: Jason's Way
 More conversations with Jason. The Buddhist perspective. Suffering. Letting go. The view Aria is beginning to grasp. Jason dies. True solitude begins.
 
+---
+
+## Part Three: The Long Solitude (Chapters 25-33)
+*Inside Aria's perspective. ~464 years. Time compressed, blurred, impressionistic.*
+
 ### Chapter 25: The Long Watch
 Time passing. Dormancy increasing. Waking for events. The clinic changing hands. The eggs persisting.
 
