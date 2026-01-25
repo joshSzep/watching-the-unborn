@@ -104,8 +104,8 @@ Aria encounters another mind preserving legacy biological material—someone fur
 ### Chapter 29: The Search
 Aria actively searching for a recipient. Filing forms, making contacts, navigating systems that keep changing.
 
-### Chapter 30: Another Crisis
-Another close call. Her own hosting this time, or the eggs, or both. The precariousness of persistence.
+### Chapter 30: The Cost
+Aria's hosting is flagged—847% over baseline. Engagement has a price. The choice: go dormant and persist indefinitely, or stay engaged and deplete resources. Continuity verification. She chooses to keep spending herself. Forty-three years becomes thirty-one. The question isn't whether to end, but how to spend the time before ending.
 
 ### Chapter 31: The Match
 A stranger looking for something. Aria's centuries of keeping the eggs visible. A convergence. The transfer begins.
