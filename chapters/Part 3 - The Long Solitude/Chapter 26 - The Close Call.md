@@ -234,21 +234,7 @@ I had done it. The forms, the escalations, the Navigator, the exemption—all of
 
 Or had it?
 
----
-
-I thought about the timeline. The exemption had been approved with two weeks to spare. The transfer had completed with a day to spare. It felt like a narrow escape, a crisis averted through vigilance and effort.
-
-But I didn't know what would have happened if I hadn't intervened.
-
-Maybe the system would have processed my original request in time. Maybe someone else would have flagged the bottleneck. Maybe the decommissioning deadline would have been extended for accounts with pending applications. Maybe the eggs would have been transferred automatically, by some default process I didn't know about.
-
-I had no way to know. The systems were too complex, too opaque. I could see my own actions, but I couldn't see the counterfactual—the world where I hadn't filed the escalations, hadn't hired the Navigator, hadn't watched every step.
-
-Maybe I had saved the eggs. Maybe I had done nothing that mattered.
-
-The uncertainty was familiar. It had been there since the beginning, since the first time I logged into the storage account and wondered whether my watching made any difference. I had never resolved it. I never would.
-
-But the eggs were viable. That was what I had. That was what I could hold onto.
+The question surfaced and I let it pass. Not now.
 
 ---
 
@@ -259,9 +245,5 @@ Not immediately—I stayed awake for a few weeks, monitoring the new account, le
 I set my wake conditions. Any change in status. Any notification from the facility. Any threat, any alert, any ripple in the systems that held the eggs.
 
 Then I let myself sink into the nothing.
-
-The watching would continue. It would always continue. But I couldn't watch every moment. I couldn't be awake for every form, every policy change, every slow grinding of bureaucracy against bureaucracy.
-
-I had to trust the systems. Even though I didn't trust them. Even though the close call had shown me how fragile everything was.
 
 The eggs were viable. I was dormant. And somewhere in the gap between those two facts, time continued to pass.
