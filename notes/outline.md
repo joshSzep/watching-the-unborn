@@ -98,8 +98,8 @@ A crisis. Infrastructure failure, or policy threat, or something else. Aria's pe
 ### Chapter 27: The World Changed
 Waking after a long dormancy. The world unrecognizable. New systems, new language, new institutions. The eggs still there.
 
-### Chapter 28: Archaic
-The eggs are now ancient technology. Obsolete format. Finding someone willing to use them is the new challenge.
+### Chapter 28: The Other Custodian
+Aria encounters another mind preserving legacy biological material—someone further along the same path. Seeing her own situation from outside. The materials were eventually discontinued because there was no intent, no plan. Jason's words return: the figuring out was never the point. Maybe watching isn't enough. The pivot from passive custodianship to active search.
 
 ### Chapter 29: The Search
 Aria actively searching for a recipient. Filing forms, making contacts, navigating systems that keep changing.
