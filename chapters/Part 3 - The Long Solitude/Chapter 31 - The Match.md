@@ -196,7 +196,7 @@ The final notification came on a Monday.
 
 *Transfer complete. Account closed.*
 
-Three words. That was all. No details about the transfer, no information about the stranger, no indication of what would happen next.
+Four words. That was all. No details about the transfer, no information about the stranger, no indication of what would happen next.
 
 The eggs were gone.
 
