@@ -86,7 +86,7 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 
 ---
 
-## Part Three: The Long Solitude (Chapters 25-32)
+## Part Three: The Long Solitude (Chapters 25-34)
 *Inside Aria's perspective. ~294 years. Time compressed, blurred, impressionistic.*
 
 ### Chapter 25: The Long Watch
@@ -110,8 +110,14 @@ Aria's hosting is flagged—847% over baseline. Engagement has a price. The choi
 ### Chapter 31: The Match
 A stranger's inquiry. Anticlimactic after three centuries—just another notification. The opaque stranger: no name, no reasons, just a request. Aria approves. The transfer happens through regulated channels. The eggs leave her custody. Account closed. "What now?"
 
-### Chapter 32: The Question
-Aria awake. Purposeless. Thinking about Wren, about Jason, about the choice they made. The question she's now facing. The book ends at the edge of decision.
+### Chapter 32: The Silence
+The burden lifts. The watching is done. For the first time in three centuries, nothing requires her attention. Not drift—release. The habits fall away. She notices what's left when the mission is gone.
+
+### Chapter 33: What Remains
+She returns to Traditional Paths—not as a searcher, but as someone who went through it. Other custodians are still there, still watching, still waiting. She becomes what Lian could have been: someone who shows the path through. Jason's bees return. The watching was the practice, not the outcome.
+
+### Chapter 34: The Question
+Aria arrives at Wren's position—limits give life meaning—through experience, not argument. The question isn't "should I continue?" but "what does presence look like when there's nothing left to hold onto?" She finally understands what Wren knew. The same edge, reached by a different path. The book ends with her awake, present, and at peace with not knowing what comes next.
 
 ---
 
