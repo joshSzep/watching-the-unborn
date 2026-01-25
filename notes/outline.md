@@ -99,7 +99,7 @@ A crisis. Infrastructure failure, or policy threat, or something else. Aria's pe
 Waking after a long dormancy. The world unrecognizable. New systems, new language, new institutions. The eggs still there.
 
 ### Chapter 28: Archaic
-The eggs are now old technology. Obsolete format. Finding someone willing to use them is the new challenge.
+The eggs are now ancient technology. Obsolete format. Finding someone willing to use them is the new challenge.
 
 ### Chapter 29: The Search
 Aria actively searching for a recipient. Filing forms, making contacts, navigating systems that keep changing.
