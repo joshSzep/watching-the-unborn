@@ -39,22 +39,21 @@
 | ~2151-2156 | 31-36 | Ongoing conversations with Jason. He confirms he knew. He meets her with compassion, tries to help her understand. |
 | ~2156 | 36 | **Jason dies.** Refuses upload. The last person who knew Wren is gone. |
 
-## Era Five: The Long Solitude (~2156-2620)
+## Era Five: The Long Solitude (~2156-2450)
 
 | Approximate Period | Years Uploaded | Event |
 |--------------------|----------------|-------|
-| 2156-2200 | 36-80 | Early solitude. Still relatively awake. Close calls begin—transfers, policy changes, infrastructure risks. |
-| 2200-2300 | 80-180 | Dormancy increasing. Wakes for events. The clinic changes hands multiple times. |
-| 2300-2400 | 180-280 | Deep time. Technology evolving. The eggs becoming archaic. Aria actively searching for recipient. |
-| 2400-2500 | 280-380 | More dormancy. Occasional close calls. The world increasingly unrecognizable. |
-| 2500-2600 | 380-480 | The eggs are now antique. Finding someone willing to use obsolete genetic material is the challenge. |
-| ~2620 | ~500 | **The transfer.** A stranger uses the eggs. Transaction mediated through the system. No direct contact. Aria gets nothing—no information about the outcome. |
+| 2156-2210 | 36-90 | Early solitude. Still relatively awake. Close calls begin—transfers, policy changes, infrastructure risks. |
+| ~2232 | 112 | Facility decommissioning crisis. Transfer to GenLegacy Preservation Services. |
+| 2232-2389 | 112-269 | Deep dormancy. 157-year sleep. Wakes to unrecognizable world. |
+| ~2389-2450 | 269-330 | Meets Lian. The pivot from watching to searching. The cost of engagement. The match. The transfer. |
+| ~2450 | ~330 | **The transfer.** A stranger uses the eggs. Transaction mediated through the system. No direct contact. Aria gets nothing—no information about the outcome. |
 
-## Era Six: The Ending (~2620)
+## Era Six: The Ending (~2450)
 
 | Year | Years Uploaded | Event |
 |------|----------------|-------|
-| ~2620 | ~500 | Aria stays awake. Purposeless. Thinks about Wren and Jason. Thinks about the choice. The book ends. |
+| ~2450 | ~330 | Aria stays awake. Purposeless. Thinks about Wren and Jason. Thinks about the choice. The book ends. |
 
 ---
 

@@ -23,7 +23,7 @@
   - The upload itself (Wren and Jason present)
 
 ### Part Two: Uploaded Aria (Chapters 13-36)
-- ~500 years of story time
+- ~300 years of story time
 - Locked inside Aria's perspective
 - Beats to cover:
   - Early waking: raw, awake for years, watching eggs that don't change

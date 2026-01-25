@@ -108,7 +108,7 @@ Not a form. A conversation. Something that asked questions and listened to answe
 
 I paused. The question was simple. The answer wasn't.
 
-*My name is Aria Chen. I uploaded in 2120. I've been maintaining a hosting account and a separate preservation account for genetic material for approximately five hundred years.*
+*My name is Aria Chen. I uploaded in 2120. I've been maintaining a hosting account and a separate preservation account for genetic material for over three centuries.*
 
 *Why did your activity pattern change eighteen months ago?*
 

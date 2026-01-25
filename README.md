@@ -8,7 +8,7 @@
 
 ## About
 
-An uploaded human mind persists for five centuries, watching over her daughter's frozen eggs—genetic material that was never meant to be used.
+An uploaded human mind persists for three centuries, watching over her daughter's frozen eggs—genetic material that was never meant to be used.
 
 *Watching the Unborn* is a literary hard sci-fi novel about deferred meaning, probability, and custodianship without agency. It asks what happens when a mother's love outlasts her daughter's wishes, when persistence becomes its own kind of trap, and when the future you planned for was never wanted by anyone but you.
 
@@ -22,7 +22,7 @@ What Aria doesn't know: Wren secretly never wants children.
 
 Decades later, Aria uploads her mind to stay with Wren longer. But Wren—a Buddhist who believes limits give life meaning—refuses to follow. She dies, leaving behind journals that reveal everything she never said.
 
-Aria persists. For five hundred years, she watches over the eggs through clinic mergers, infrastructure failures, legal shifts, and technological obsolescence. She files forms. She pays fees. She waits.
+Aria persists. For three centuries, she watches over the eggs through clinic mergers, infrastructure failures, legal shifts, and technological obsolescence. She files forms. She pays fees. She waits.
 
 When the eggs are finally used by a stranger, Aria gets nothing—no information, no connection, no thread to follow. She succeeded. And in succeeding, lost her only purpose.
 

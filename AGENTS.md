@@ -13,7 +13,7 @@ If you violate these constraints, you are doing the wrong work.
 
 **Aria**, an actuary, uploads her mind at age 85 to spend more time with her daughter **Wren**. But Wren—a Buddhist who believes limits give life meaning—refuses to upload and dies at 91. Aria discovers through inherited journals that Wren secretly never wanted children, disapproved of the frozen eggs Aria pushed her to store, and disapproved of the upload itself.
 
-Aria reframes: the eggs are no longer "Wren's choice"—they're "what remains of Wren." She watches over them for five centuries, through institutional changes, close calls, and technological obsolescence, until a stranger finally uses them. Then she loses access—no information about the child, no connection, no thread to follow.
+Aria reframes: the eggs are no longer "Wren's choice"—they're "what remains of Wren." She watches over them for three centuries, through institutional changes, close calls, and technological obsolescence, until a stranger finally uses them. Then she loses access—no information about the child, no connection, no thread to follow.
 
 The book ends with Aria awake, purposeless, weighing whether to persist or end—the same question Wren answered long ago.
 
@@ -60,9 +60,9 @@ This is a story about deferred meaning, probability, and custodianship without a
 - **~2120-2151**: 31 years of video calls. Wren ages; Aria's avatar stays 25.
 - **~2151**: Wren dies at 91. Aria inherits journals, learns everything.
 - **~2156**: Jason dies. True solitude begins.
-- **~2156-2620**: Five centuries. Dormancy increasing. Close calls. The eggs becoming archaic.
-- **~2620**: A stranger uses the eggs. Transfer mediated through system. Aria gets nothing.
-- **~2620**: The book ends. Aria awake, weighing the choice.
+- **~2156-2450**: Three centuries. Dormancy increasing. Close calls. The eggs becoming archaic.
+- **~2450**: A stranger uses the eggs. Transfer mediated through system. Aria gets nothing.
+- **~2450**: The book ends. Aria awake, weighing the choice.
 
 ---
 
@@ -70,7 +70,7 @@ This is a story about deferred meaning, probability, and custodianship without a
 
 - **36 chapters**, descriptive titles, ~3,000 words average (~108,000 words total)
 - **Part One (Chapters 1-12)**: Human Aria. Third person, neutral angle. ~30 years.
-- **Part Two (Chapters 13-36)**: Uploaded Aria. Locked inside her perspective. ~500 years.
+- **Part Two (Chapters 13-36)**: Uploaded Aria. Locked inside her perspective. ~300 years.
 - Time becomes blurry and impressionistic as centuries pass.
 
 ---

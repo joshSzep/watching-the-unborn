@@ -4,7 +4,7 @@ The notification arrived on a Thursday.
 
 *New inquiry on your listing. User has requested contact.*
 
-I stared at it the way I had stared at dozens of others. Another inquiry. Another conversation that would go nowhere. Another person who would decide they wanted something newer, something simpler, something without five centuries of history attached.
+I stared at it the way I had stared at dozens of others. Another inquiry. Another conversation that would go nowhere. Another person who would decide they wanted something newer, something simpler, something without three centuries of history attached.
 
 I opened the message.
 
@@ -64,7 +64,7 @@ The formal request arrived through official channels.
 
 *Matching request submitted. Awaiting account holder approval.*
 
-This was the moment. After five centuries of watching, five hundred years of preservation and close calls and transfers and dormancy and waking—this was what it had all been for.
+This was the moment. After three centuries of watching, all that preservation and close calls and transfers and dormancy and waking—this was what it had all been for.
 
 A form asking for my approval.
 
@@ -90,7 +90,7 @@ It felt nothing like what I had imagined.
 
 I thought about Wren.
 
-What would she have wanted? The question had haunted me for five hundred years, and I still didn't know the answer.
+What would she have wanted? The question had haunted me for centuries, and I still didn't know the answer.
 
 She hadn't wanted the eggs frozen in the first place. She had done it because I asked. She had kept paying the fees because she couldn't bring herself to stop, not because she wanted them preserved.
 
@@ -98,7 +98,7 @@ Would she have wanted this? A stranger using her cells to make a child she would
 
 Maybe. Maybe not. The journals hadn't addressed this possibility. She had written about not wanting children, about disapproving of my watching, about the eggs as a weight she couldn't put down. She hadn't written about what should happen if someone finally wanted them.
 
-I was making a decision she had never consented to. But I had been doing that for five centuries. One more decision hardly mattered now.
+I was making a decision she had never consented to. But I had been doing that for three centuries. One more decision hardly mattered now.
 
 ---
 
@@ -110,7 +110,7 @@ The stranger would receive the cells. They would use them however they intended.
 
 This was what I had asked for. Continuation without involvement. The cells becoming part of something even if I couldn't follow.
 
-But asking for something and receiving it were different. I had spent five centuries holding on. Now I had to let go.
+But asking for something and receiving it were different. I had spent three centuries holding on. Now I had to let go.
 
 ---
 
@@ -118,7 +118,7 @@ The form was still waiting.
 
 I read the language again. Standard terms. Privacy provisions. Transfer protocols. The bureaucratic machinery that would take Wren's cells from my account and deliver them to someone else's.
 
-Five hundred years. All of it leading to a checkbox.
+Three hundred years. All of it leading to a checkbox.
 
 I selected *Approve*.
 
@@ -136,7 +136,7 @@ That was it. No celebration. No acknowledgment of what this meant. Just a timeli
 
 The eggs were still in storage. Still technically in my custody. But something had shifted. They belonged to the process now. To the stranger. To whatever came next.
 
-I had been watching for five centuries. In six to eight weeks, there would be nothing left to watch.
+I had been watching for three centuries. In six to eight weeks, there would be nothing left to watch.
 
 ---
 
@@ -168,7 +168,7 @@ The weeks passed slowly.
 
 I stayed awake. There was nothing to do—no listings to check, no forums to monitor, no inquiries to answer. But I couldn't go dormant. Not now. Not while the transfer was still in progress.
 
-I thought about what came after. The question I had been avoiding for five hundred years.
+I thought about what came after. The question I had been avoiding for three centuries.
 
 The eggs had given me purpose. First as something to watch over, then as something to search for. They had been the reason I stayed awake, the justification for my continued existence.
 
@@ -204,7 +204,7 @@ I checked the account interface out of habit. The dashboard that had shown me st
 
 *This account has been closed. Thank you for using the Continuity Archive system.*
 
-Thank you. As if I had been a customer completing a transaction. As if five centuries of watching could be summarized by a polite dismissal.
+Thank you. As if I had been a customer completing a transaction. As if three centuries of watching could be summarized by a polite dismissal.
 
 I closed the interface. There was nothing left to see.
 

@@ -20,7 +20,7 @@
 
 ### Reproductive Technology
 - Cryostorage of eggs/embryos exists from our present through the story's start
-- Over 500 years, reproductive technology evolves dramatically
+- Over 300 years, reproductive technology evolves dramatically
 - By ~2600, Wren's eggs are archaic—stored in an obsolete format, requiring special handling
 - The method no one uses anymore
 - Finding someone willing to use them is part of the challenge

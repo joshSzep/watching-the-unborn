@@ -37,7 +37,7 @@ Over centuries, the eggs face threats from:
 - Aria can flag discrepancies, file alerts, but can't physically intervene
 
 ## Evolution of the Technology
-- By the end (500 years later), reproductive technology has evolved
+- By the end (300+ years later), reproductive technology has evolved
 - Wren's eggs become archaic—a quaint, old-fashioned container
 - Obsolete format requiring special handling
 - The method no one uses anymore
