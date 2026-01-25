@@ -78,7 +78,7 @@ Aria reads Wren's private notes. All at once. The truth: no children wanted, dis
 ### Chapter 22: Processing
 Aria stays awake. Time is squishy. The weight of what she now knows. The reframing: the eggs are what remains of Wren.
 
-### Chapter 23: The Conversation with Jason
+### Chapter 23: The Weight
 Aria confronts Jason. He knew. He kept quiet. His response: compassion, equanimity, trying to help her understand.
 
 ### Chapter 24: Jason's Way
