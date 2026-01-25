@@ -16,25 +16,28 @@ An uploaded human mind persists for three centuries, watching over her daughter'
 
 ## Synopsis
 
-Aria, an actuary and a planner, accompanies her daughter Wren to freeze eggs at a fertility clinic. It's Aria's idea—insurance for grandchildren Wren hasn't decided to have.
+Three weeks after her daughter's divorce, Aria suggests freezing eggs. Wren is thirty, uncertain about children, uncertain about everything. Aria calls it preserving options. Wren agrees—though she cannot say whose decision it really is.
 
-What Aria doesn't know: Wren secretly never wants children.
+Years pass. Wren finds Buddhism, finds a beekeeper named Jason, builds a life her mother doesn't fully understand. Aria ages. When her body begins to fail, she uploads her mind to stay with her daughter longer.
 
-Decades later, Aria uploads her mind to stay with Wren longer. But Wren—a Buddhist who believes limits give life meaning—refuses to follow. She dies, leaving behind journals that reveal everything she never said.
+Wren refuses to follow. She believes limits give life meaning. She dies at ninety-one, leaving behind journals that reveal what she never said aloud: she never wanted children. She disapproved of the eggs, the upload, all of it. The future Aria had been preserving was never wanted by anyone but her.
 
-Aria persists. For three centuries, she watches over the eggs through clinic mergers, infrastructure failures, legal shifts, and technological obsolescence. She files forms. She pays fees. She waits.
+So Aria reframes. The eggs are no longer Wren's choice. They are what remains of Wren.
 
-When the eggs are finally used by a stranger, Aria gets nothing—no information, no connection, no thread to follow. She succeeded. And in succeeding, lost her only purpose.
+For three centuries, she watches. Clinic mergers, infrastructure failures, technological obsolescence. She files forms. She pays fees. She waits—first as vigil, then as habit, then as something she no longer knows how to stop.
 
-The novel ends where Wren's life ended: with a question about whether to continue.
+When a stranger finally uses the eggs, Aria gets nothing. No name, no connection, no thread to follow. The watching is over.
+
+What remains is simpler. Memory. Presence. The question of what to do with a life that has outlasted its purpose.
 
 ---
 
 ## Structure
 
-- 36 chapters
-- ~108,000 words
-- Part One (Chapters 1-12): Human Aria, third person
-- Part Two (Chapters 13-36): Uploaded Aria, first person
+- 33 chapters
+- ~65,500 words
+- Part One (Chapters 1–12): Human Aria, third person
+- Part Two (Chapters 13–24): Uploaded Aria, first person
+- Part Three (Chapters 25–33): Finally Aria, first person
 
 See `/notes` for world-building, character notes, timeline, and outline.
