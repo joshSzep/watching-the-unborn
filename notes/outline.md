@@ -69,8 +69,8 @@ A close call. The clinic is acquired. The eggs must move. Chain-of-custody anxie
 ### Chapter 19: Wren at Ninety
 Three decades after the upload. Wren at ninety, sensing the end. Fewer calls. Forgiveness. The weight of watching someone approach death while you don't.
 
-### Chapter 20: The Death
-Wren dies. Natural. Expected. Final. Aria receives the notification. The inheritance.
+### Chapter 20: 3:47 AM
+A notification. The inheritance. The journals arrive.
 
 ### Chapter 21: The Journals
 Aria reads Wren's private notes. All at once. The truth: no children wanted, disapproval of eggs, upload, avatar. Wren's late realization about her own attachment.
