@@ -11,7 +11,7 @@ If you violate these constraints, you are doing the wrong work.
 
 ## Core Premise (Immutable)
 
-**Aria**, an actuary, uploads her mind at age 85 to spend more time with her daughter **Wren**. But Wren—a Buddhist who believes limits give life meaning—refuses to upload and dies at 100. Aria discovers through inherited journals that Wren secretly never wanted children, disapproved of the frozen eggs Aria pushed her to store, and disapproved of the upload itself.
+**Aria**, an actuary, uploads her mind at age 85 to spend more time with her daughter **Wren**. But Wren—a Buddhist who believes limits give life meaning—refuses to upload and dies at 91. Aria discovers through inherited journals that Wren secretly never wanted children, disapproved of the frozen eggs Aria pushed her to store, and disapproved of the upload itself.
 
 Aria reframes: the eggs are no longer "Wren's choice"—they're "what remains of Wren." She watches over them for five centuries, through institutional changes, close calls, and technological obsolescence, until a stranger finally uses them. Then she loses access—no information about the child, no connection, no thread to follow.
 
@@ -33,7 +33,7 @@ This is a story about deferred meaning, probability, and custodianship without a
 - Arc: gradually arrives at Wren's Buddhist position—that limits give life meaning—through centuries of experience, not argument.
 
 ### Wren
-- Born ~2060, dies ~2160 (age 100)
+- Born ~2060, dies ~2151 (age 91)
 - Nonprofit lawyer helping the unhoused. Oriented toward present suffering, not future abstraction.
 - Buddhist. Believes not having children and not uploading is part of breaking the cycle of samsara.
 - Secretly never wanted children. Never told Aria. Only honest in private journals.
@@ -57,10 +57,10 @@ This is a story about deferred meaning, probability, and custodianship without a
 
 - **~2090**: Clinic visit. Wren (30) freezes eggs at Aria's (55) suggestion, after divorce from Bryce.
 - **~2120**: Aria (85) uploads. Wren (60) and Jason present.
-- **~2120-2160**: 40 years of video calls. Wren ages; Aria's avatar stays 25.
-- **~2160**: Wren dies at 100. Aria inherits journals, learns everything.
-- **~2165**: Jason dies. True solitude begins.
-- **~2165-2620**: Five centuries. Dormancy increasing. Close calls. The eggs becoming archaic.
+- **~2120-2151**: 31 years of video calls. Wren ages; Aria's avatar stays 25.
+- **~2151**: Wren dies at 91. Aria inherits journals, learns everything.
+- **~2156**: Jason dies. True solitude begins.
+- **~2156-2620**: Five centuries. Dormancy increasing. Close calls. The eggs becoming archaic.
 - **~2620**: A stranger uses the eggs. Transfer mediated through system. Aria gets nothing.
 - **~2620**: The book ends. Aria awake, weighing the choice.
 

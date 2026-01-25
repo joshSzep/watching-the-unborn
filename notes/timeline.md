@@ -20,29 +20,30 @@
 | ~2090-2120 | 55-85 | 30-60 | 30 years of relationship: Aria aging, Wren and Jason deepening into Buddhist practice, the eggs in storage |
 | ~2120 | 85 | 60 | Aria's body failing. **The upload.** Wren and Jason present. |
 
-## Era Three: Uploaded Aria, Wren Still Alive (~2120-2160)
+## Era Three: Uploaded Aria, Wren Still Alive (~2120-2151)
 
 | Year | Years Uploaded | Wren's Age | Event |
 |------|----------------|------------|-------|
 | ~2120 | 0 | 60 | Aria wakes as uploaded mind. Chooses mid-20s avatar. |
-| ~2120-2160 | 0-40 | 60-100 | 40 years of video calls. Wren ages while Aria's avatar stays young. Wren silently disapproves. The eggs sit in storage. Aria awake much of this time. |
+| ~2120-2151 | 0-31 | 60-91 | 31 years of video calls. Wren ages while Aria's avatar stays young. Wren silently disapproves. The eggs sit in storage. Aria awake much of this time. |
 | ~2130 | 10 | 70 | Aria tries to convince Wren to upload. Wren refuses. |
-| ~2160 | 40 | 100 | **Wren dies.** Natural causes. Refuses upload to the end. |
+| ~2150 | 30 | 90 | Wren at ninety. The final conversations begin. |
+| ~2151 | 31 | 91 | **Wren dies.** Natural causes. Refuses upload to the end. |
 
-## Era Four: The Journals and Jason (~2160-2165)
+## Era Four: The Journals and Jason (~2151-2156)
 
 | Year | Years Uploaded | Event |
 |------|----------------|-------|
-| ~2160 | 40 | Aria inherits Wren's private notes and journals. Reads everything immediately. Learns the truth: Wren never wanted children. Wren disapproved of the eggs, the upload, the avatar. |
-| ~2160 | 40 | Aria stays awake processing. Time is squishy. |
-| ~2160-2165 | 40-45 | Ongoing conversations with Jason. He confirms he knew. He meets her with compassion, tries to help her understand. |
-| ~2165 | 45 | **Jason dies.** Refuses upload. The last person who knew Wren is gone. |
+| ~2151 | 31 | Aria inherits Wren's private notes and journals. Reads everything immediately. Learns the truth: Wren never wanted children. Wren disapproved of the eggs, the upload, the avatar. |
+| ~2151 | 31 | Aria stays awake processing. Time is squishy. |
+| ~2151-2156 | 31-36 | Ongoing conversations with Jason. He confirms he knew. He meets her with compassion, tries to help her understand. |
+| ~2156 | 36 | **Jason dies.** Refuses upload. The last person who knew Wren is gone. |
 
-## Era Five: The Long Solitude (~2165-2620)
+## Era Five: The Long Solitude (~2156-2620)
 
 | Approximate Period | Years Uploaded | Event |
 |--------------------|----------------|-------|
-| 2165-2200 | 45-80 | Early solitude. Still relatively awake. Close calls begin—transfers, policy changes, infrastructure risks. |
+| 2156-2200 | 36-80 | Early solitude. Still relatively awake. Close calls begin—transfers, policy changes, infrastructure risks. |
 | 2200-2300 | 80-180 | Dormancy increasing. Wakes for events. The clinic changes hands multiple times. |
 | 2300-2400 | 180-280 | Deep time. Technology evolving. The eggs becoming archaic. Aria actively searching for recipient. |
 | 2400-2500 | 280-380 | More dormancy. Occasional close calls. The world increasingly unrecognizable. |

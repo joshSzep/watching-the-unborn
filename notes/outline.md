@@ -67,7 +67,7 @@ A call with Jason. The apiary. His philosophy. His cracks showing. A different w
 A close call. The clinic is acquired. The eggs must move. Chain-of-custody anxiety. Aria files forms, sends emails, waits.
 
 ### Chapter 19: Wren at Ninety
-Decades later. Wren very old. Fewer calls. The weight of watching someone approach death while you don't.
+Three decades after the upload. Wren at ninety, sensing the end. Fewer calls. Forgiveness. The weight of watching someone approach death while you don't.
 
 ### Chapter 20: The Death
 Wren dies. Natural. Expected. Final. Aria receives the notification. The inheritance.

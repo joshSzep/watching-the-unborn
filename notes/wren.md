@@ -2,7 +2,7 @@
 
 ## Basic Information
 - **Born:** ~2060
-- **Died:** ~2160 (age 100, natural causes)
+- **Died:** ~2151 (age 91, natural causes)
 - **Profession:** Lawyer at a nonprofit working to help the unhoused
 
 ## Personality
@@ -40,7 +40,7 @@ She never voices any of this. Aria learns it all from the journals after Wren's 
 - Wren watches Aria upload, knowing she disapproves, saying nothing.
 - When Aria later tries to convince Wren to upload, Wren refuses.
 - She gives her reason: limits give life meaning.
-- She dies of natural old age at 100.
+- She dies of natural old age at 91.
 - She doesn't consider that Aria will inherit and read her private journals.
 
 ## The Journals
