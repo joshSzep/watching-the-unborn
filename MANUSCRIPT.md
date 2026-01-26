@@ -147,6 +147,7 @@ The light outside faded. The apartment settled into darkness. Aria sat alone in 
 
 In a tank somewhere, fourteen cells held their breath.
 
+---
 
 ### Chapter 02 - After the Divorce
 
@@ -339,6 +340,7 @@ She thought about grandchildren—not as faces, not as names, but as a probabili
 
 Outside, the afternoon light was fading. Aria turned on the kitchen lamp and began to make dinner for one.
 
+---
 
 ### Chapter 03 - Jason
 
@@ -519,6 +521,7 @@ Outside, the morning was beginning. Birds in the tree. Cars on the street. The o
 
 Aria finished her coffee and went to work.
 
+---
 
 ### Chapter 04 - The Dinner
 
@@ -711,6 +714,7 @@ It wasn't the life she had imagined for any of them. But it was the life they ha
 
 She finished her water and went to bed.
 
+---
 
 ### Chapter 05 - Renewal
 
@@ -969,6 +973,7 @@ Aria didn't know. But she had time to find out. Five years, maybe. Ten if she wa
 
 She would use them well.
 
+---
 
 ### Chapter 06 - The Question
 
@@ -1167,6 +1172,7 @@ The eggs were still frozen. The future was still unwritten. But for now, there w
 
 For now, that was more than enough.
 
+---
 
 ### Chapter 07 - The Practice
 
@@ -1339,6 +1345,7 @@ For now, that was enough.
 
 It had to be enough.
 
+---
 
 ### Chapter 08 - Aria Aging
 
@@ -1571,6 +1578,7 @@ Outside, the night was cold and clear. Aria could see stars through her kitchen 
 
 Then she finished her tea and went to bed, the brochure still on the table, the decision still unmade, the future still waiting to be written.
 
+---
 
 ### Chapter 09 - The Offer
 
@@ -1805,6 +1813,7 @@ More time. More watching. More waiting.
 
 It wasn't a good reason. But it was her reason, and she had made her peace with it.
 
+---
 
 ### Chapter 10 - The Conversation
 
@@ -2041,6 +2050,7 @@ Tomorrow, she would continue it in a different form. Tomorrow, the watching woul
 
 She turned off the lights and went to bed, and slept, and dreamed of nothing she would remember.
 
+---
 
 ### Chapter 11 - The Facility
 
@@ -2255,6 +2265,7 @@ Then the sedation took her, and Aria Chen closed her eyes for the last time in t
 
 The machines hummed. The monitors beeped. And somewhere in the building, the process of transformation began.
 
+---
 
 ### Chapter 12 - The Procedure
 
@@ -2473,6 +2484,7 @@ She was something else now. Something new.
 
 The watching had begun.
 
+---
 
 ## Part 2 - Uploaded Aria
 
@@ -2659,6 +2671,7 @@ I opened the account. Fourteen oocytes. Status: viable.
 
 The watching continued.
 
+---
 
 ### Chapter 14 - Years Awake
 
@@ -2809,6 +2822,7 @@ The tenth year arrived. The eggs remained frozen. The vigil continued.
 
 *The second decade begins. The numbers hold steady. The waiting continues.*
 
+---
 
 ### Chapter 15 - Wren at Seventy
 
@@ -2999,6 +3013,7 @@ That was the only answer I had. The only answer I could give.
 
 The watching continued. The vigil went on.
 
+---
 
 ### Chapter 16 - The Argument
 
@@ -3223,6 +3238,7 @@ But now I knew what I was waiting for. Now I knew what the ending would be.
 
 And I didn't know how to bear it.
 
+---
 
 ### Chapter 17 - Jason's Bees
 
@@ -3421,6 +3437,7 @@ The answer wasn't clear. It might never be clear. But the question had changed, 
 
 That was a start.
 
+---
 
 ### Chapter 18 - The First Transfer
 
@@ -3611,6 +3628,7 @@ Whether it had ever been enough.
 
 Whether it ever would be.
 
+---
 
 ### Chapter 19 - Wren at Ninety
 
@@ -3793,6 +3811,7 @@ The time remaining was finite. I didn't know how to count it. I only knew it was
 
 And for the first time since I uploaded, I wished I could run out too.
 
+---
 
 ### Chapter 20 - 3:47 AM
 
@@ -3982,6 +4001,7 @@ I owed it to her to try.
 
 I opened the second entry, and I began to read.
 
+---
 
 ### Chapter 21 - The Journals
 
@@ -4210,6 +4230,7 @@ The watching continued. But I was watching differently now.
 
 I was watching myself.
 
+---
 
 ### Chapter 22 - Processing
 
@@ -4384,6 +4405,7 @@ I didn't know. But the watching continued. And for now, that was enough.
 
 It had to be enough.
 
+---
 
 ### Chapter 23 - The Weight
 
@@ -4580,6 +4602,7 @@ The watching continued. But I was watching differently now.
 
 I was starting to see what I was holding. And I was starting to wonder whether I could ever put it down.
 
+---
 
 ### Chapter 24 - Jason's Way
 
@@ -4768,6 +4791,7 @@ I whispered it to myself, like a prayer, like a promise, like the only thing I h
 
 Then I began the long watch alone.
 
+---
 
 ## Part 3 - Finally Aria
 
@@ -4963,6 +4987,7 @@ The word was there. The eggs were there. And I was there, still watching, still 
 
 The long watch continued.
 
+---
 
 ### Chapter 26 - The Close Call
 
@@ -5215,6 +5240,7 @@ Then I let myself sink into the nothing.
 
 The eggs were viable. I was dormant. And somewhere in the gap between those two facts, time continued to pass.
 
+---
 
 ### Chapter 27 - The World Changed
 
@@ -5401,6 +5427,7 @@ I went dormant.
 
 The eggs remained preserved. The world continued to change. And somewhere in the gap between those two facts, I waited for something I couldn't name.
 
+---
 
 ### Chapter 28 - The Other Custodian
 
@@ -5641,6 +5668,7 @@ Then I waited. But this time the waiting was different.
 
 This time I was waiting for something I had chosen.
 
+---
 
 ### Chapter 29 - The Search
 
@@ -5811,6 +5839,7 @@ I was engaged.
 
 And for now, that was enough.
 
+---
 
 ### Chapter 30 - The Cost
 
@@ -6011,6 +6040,7 @@ And if the container emptied before the search was finished—
 
 Well. At least I would have been awake for it.
 
+---
 
 ### Chapter 31 - The Match
 
@@ -6243,6 +6273,7 @@ But the reason I had given myself for existing—the watching, the searching, th
 
 What now?
 
+---
 
 ### Chapter 32 - The Silence
 
@@ -6419,6 +6450,7 @@ I didn't know. I had never been here before.
 
 I stayed awake, and I waited, and I let the silence be whatever it was going to be.
 
+---
 
 ### Chapter 33 - The Awakening
 
@@ -6579,6 +6611,7 @@ Just waited. Present. Awake.
 
 For the first time in three centuries, that felt like enough.
 
+---
 
 ### Chapter 34 - What Remains
 
@@ -6795,6 +6828,7 @@ The eggs were gone. Wren was gone. The purpose I had built my existence around w
 
 What remained was simpler. And maybe, finally, enough.
 
+---
 
 ### Chapter 35 - The Limit
 
@@ -6987,4 +7021,5 @@ The limit arrived.
 
 And then: silence.
 
+---
 

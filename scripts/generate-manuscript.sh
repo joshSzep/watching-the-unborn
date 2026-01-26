@@ -46,6 +46,7 @@ for part_num in 1 2 3; do
         
         # Add spacing between chapters
         echo "" >> "$OUTPUT_FILE"
+        echo "---" >> "$OUTPUT_FILE"
         echo "" >> "$OUTPUT_FILE"
     done
 done
