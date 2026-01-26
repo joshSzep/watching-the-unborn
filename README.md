@@ -34,10 +34,10 @@ What remains is simpler. Memory. Presence. The question of what to do with a lif
 
 ## Structure
 
-- 33 chapters
-- ~65,500 words
+- 34 chapters
+- ~67,500 words
 - Part One (Chapters 1–12): Human Aria, third person
 - Part Two (Chapters 13–24): Uploaded Aria, first person
-- Part Three (Chapters 25–33): Finally Aria, first person
+- Part Three (Chapters 25–34): Finally Aria, first person
 
-See `/notes` for world-building, character notes, timeline, and outline.
+See `/notes` for world-building, character notes, and outline.

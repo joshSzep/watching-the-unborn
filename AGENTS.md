@@ -15,7 +15,7 @@ If you violate these constraints, you are doing the wrong work.
 
 Aria reframes: the eggs are no longer "Wren's choice"—they're "what remains of Wren." She watches over them for three centuries, through institutional changes, close calls, and technological obsolescence, until a stranger finally uses them. Then she loses access—no information about the child, no connection, no thread to follow.
 
-The book ends with Aria awake, purposeless, weighing whether to persist or end—the same question Wren answered long ago.
+The book ends with Aria awake, having found something like peace—not through insight but through exhaustion, through sitting in the emptiness long enough that something else could grow. She arrives at Wren's position not by argument but by experience. The redemption is earned, not given.
 
 This is not a story about immortality.
 This is a story about deferred meaning, probability, and custodianship without agency.
@@ -68,9 +68,10 @@ This is a story about deferred meaning, probability, and custodianship without a
 
 ## Structure
 
-- **36 chapters**, descriptive titles, ~3,000 words average (~108,000 words total)
+- **34 chapters**, descriptive titles, ~3,000 words average (~102,000 words total)
 - **Part One (Chapters 1-12)**: Human Aria. Third person, neutral angle. ~30 years.
-- **Part Two (Chapters 13-36)**: Uploaded Aria. Locked inside her perspective. ~300 years.
+- **Part Two (Chapters 13-24)**: Uploaded Aria. Wren's death, the journals, Jason's death. ~36 years.
+- **Part Three (Chapters 25-34)**: Finally Aria. The long watch, the match, the silence, the awakening. ~294 years.
 - Time becomes blurry and impressionistic as centuries pass.
 
 ---
@@ -152,7 +153,7 @@ Wren believes this from the start. Aria resists it (subconscious Christian inher
 - Legacy without gratitude
 
 ### Avoid
-- Redemption arcs
+- Cheap redemption (redemption must be earned through experience, not insight)
 - Transcendence
 - Moral resolution
 - Neat conclusions
@@ -160,7 +161,7 @@ Wren believes this from the start. Aria resists it (subconscious Christian inher
 
 This story does not resolve. It accumulates.
 
-The ending is genuinely unresolved. The reader fills in their own view.
+The ending is genuinely earned. Aria arrives at peace not through understanding but through exhaustion—through sitting in the emptiness long enough.
 
 ---
 
@@ -196,7 +197,7 @@ If you find yourself doing any of the following, stop:
 - Turning Aria into a narrator with opinions rather than observations
 - Making fertility clinics symbolic instead of literal
 - Giving Aria power she shouldn't have
-- Resolving the ending
+- Giving Aria peace she hasn't earned
 - Making Wren's Buddhist philosophy preachy or didactic
 - Sentimentalizing the mother-daughter relationship
 

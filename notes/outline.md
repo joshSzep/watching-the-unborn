@@ -1,6 +1,6 @@
 # Outline
 
-33 chapters. Descriptive titles. ~3,000 words average.
+34 chapters. Descriptive titles. ~3,000 words average.
 
 ---
 
@@ -86,7 +86,7 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 
 ---
 
-## Part Three: Finally Aria (Chapters 25-33)
+## Part Three: Finally Aria (Chapters 25-34)
 *Inside Aria's perspective. ~294 years. Time compressed, blurred, impressionistic.*
 
 ### Chapter 25: The Long Watch
@@ -111,10 +111,13 @@ Aria's hosting is flagged—847% over baseline. Engagement has a price. The choi
 A stranger's inquiry. Anticlimactic after three centuries—just another notification. The opaque stranger: no name, no reasons, just a request. Aria approves. The transfer happens through regulated channels. The eggs leave her custody. Account closed. "What now?"
 
 ### Chapter 32: The Silence
-The burden lifts. The phantom reaching. The grief that finally cracks open. Memories surfacing—Wren's hands, the weight of her as a baby. "I had been holding my breath for three hundred years. Now I was finally exhaling."
+The raw aftermath. Weeks, then months. The phantom reaching that won't stop—checking the empty space where the account used to be. She searches old archives, re-reads the transfer confirmation, looks for any thread to follow. The habit of watching keeps going with nothing to watch. The reaching slows not because she heals but because she's exhausted. Ends in tired stillness, not resolution.
 
-### Chapter 33: What Remains
-She returns to Traditional Paths—not as a searcher, but as someone who went through it. Sev and other custodians still watching, still waiting. She becomes what Lian could have been: someone who witnesses, who is present. Jason's bees return. The conversation with Wren she can finally have. "You were right. And I was right too." The question dissolves into presence. The book ends: "What remained was simpler. And maybe, finally, enough."
+### Chapter 33: The Awakening
+A year or more has passed. The reaching has dulled. Memories surface—Wren's hands, the weight of her as a baby. Grief cracks open, messy and incomplete. She thinks about Lian, about Wren's philosophy, about Jason's bees. "The figuring out is never the point." Something loosens. Not peace—the absence of panic. She begins to understand what Wren meant about limits, not through argument but through exhaustion.
+
+### Chapter 34: What Remains
+She returns to Traditional Paths—not as a searcher, but as someone who went through it. Sev and other custodians still watching, still waiting. She becomes what Lian could have been: someone who witnesses, who is present. The practice of attention given freely. The book ends: "What remained was simpler. And maybe, finally, enough."
 
 ---
 

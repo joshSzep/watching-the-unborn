@@ -3023,7 +3023,19 @@ She sighed. Behind her, the familiar bookshelf, the bronze Buddha, the photograp
 
 "Until it isn't managed. Until something goes wrong. Until—"
 
-"Until I die?" She said it flatly, without emotion. "Yes. Eventually. That's how it works."
+I stopped myself. But too late.
+
+"Until I die like Dad did?" Wren finished the sentence I couldn't. "You can say it. Heart attack at thirty-four. I know the story."
+
+The story. As if it were something I'd told her rather than something I'd lived. As if she could understand what it meant to hold a baby in one arm and feel for a pulse with the other hand, knowing already there wouldn't be one. To have the paramedics arrive and take him away while Wren slept through it all, three months old, oblivious.
+
+"That was different."
+
+"Was it? He had high blood pressure too. Undiagnosed. Untreated. And then one morning he didn't wake up." Wren's voice was calm, almost gentle. "I've had mine monitored for twenty years, Mom. I take my medication. I see my doctor. I'm doing everything right."
+
+"Everything right isn't always enough."
+
+"No. It isn't. But that's true for everyone. Uploaded or not." She paused. "I'm going to die, Mom. Eventually. That's how it works."
 
 I should have stopped there. I should have taken a breath, changed the subject, let the moment pass. But I didn't. Couldn't.
 
@@ -6237,145 +6249,345 @@ What now?
 
 The first morning without the eggs, I woke and reached for the account.
 
-My attention was already there before I remembered—moving toward the dashboard, preparing to see the numbers, the status, the small confirmations that everything was still in place. The motion was so deep in me that I completed it before I could stop.
+The motion completed before I could stop it. My attention moving toward the dashboard, preparing to see the numbers, the status, the small confirmations that everything was still in place.
 
 Nothing.
 
-The interface where the account had lived was gone. Not broken, not inaccessible. Just—absent. The way a tooth socket feels after an extraction. The tongue keeps going there, probing the emptiness, unable to believe the tooth is really gone.
+The interface where the account had lived was gone. Not broken, not inaccessible. Just absent. The way a tooth socket feels after an extraction—the tongue keeps going there, probing the emptiness, unable to believe the tooth is really gone.
 
-I did it again an hour later. And again. And again.
-
----
-
-I had read once, in my human life, about amputees who felt their missing limbs. Phantom sensations. The brain refusing to accept what the body already knew.
-
-This was like that. My mind kept reaching for something that no longer existed. The eggs. The account. The purpose that had structured every waking moment for three hundred years.
-
-Gone.
-
-And I kept reaching anyway.
+I reached again. And again. Each time expecting something different.
 
 ---
 
 The second day was worse.
 
-I woke in the middle of what would have been night, if night meant anything. My first thought—automatic, unbidden—was to check the account. Had something happened while I was dormant? Was there a notification I had missed? A threat I needed to address?
+I woke in the middle of what would have been night, if night meant anything. My first thought—automatic, unbidden—was to check the account. Had something happened while I was dormant? Was there a notification I had missed?
 
 The reaching happened before I could stop it. And then the emptiness. And then the strange, sourceless panic of having nothing to check.
 
-I lay there—if lying was the right word—and felt my mind scrabble for purchase. Looking for something to hold onto. Finding nothing.
+I tried to go dormant. Sleep through it. But my pattern wouldn't settle. The vigilance was still running, cycling through its routines, looking for threats that no longer existed.
+
+I had read once, in my human life, about amputees who felt their missing limbs. Phantom sensations. The brain refusing to accept what the body already knew.
+
+This was like that. My mind kept reaching for something that no longer existed. And every time it found nothing, there was a small shock. A small grief. A small forgetting and remembering.
 
 ---
 
-On the third day, I remembered Wren's hands.
+On the fourth day, I searched the archive.
 
-I don't know why. The memory surfaced without warning, without connection to anything I had been thinking about. Just suddenly there: Wren's hands at thirty, at sixty, at ninety. The way they had changed. The way I had watched them change through the screen of our video calls, unable to touch them, unable to do anything but observe.
+Not for anything specific. Just—searching. The way you might open every drawer in an empty apartment, looking for something the previous tenant left behind.
 
-Her hands folding a blanket. Her hands wrapped around a cup of tea. Her hands at the end, thin and spotted, the skin like paper over bone.
+The transfer confirmation was still there. I read it again.
 
-I hadn't thought about her hands in—how long? Decades? Centuries? I had thought about the eggs. About the account. About the mission. But not about her hands.
+*Transfer complete. Account closed.*
 
-Now, with nothing to check, her hands were all I could see.
+Four words. I had read them dozens of times already. They said exactly what they said. But I kept going back, as if the meaning might change. As if there might be a footnote I had missed, a thread I could follow.
 
----
-
-The fourth day, I cried.
-
-I didn't know I could still cry. I hadn't cried since—I couldn't remember. Since Jason's death, maybe. Since reading the journals. The capacity had seemed to atrophy along with everything else, the emotional responses fading as the centuries stretched.
-
-But something cracked open on the fourth day. The silence, the emptiness, the phantom reaching—all of it accumulated until I couldn't hold it anymore.
-
-I cried for the eggs. For the purpose they had given me. For the three hundred years I had spent watching something that was never going to watch back.
-
-I cried for Wren. For her hands. For the life she had lived and the death she had chosen and the journals that had shown me everything I had never wanted to know.
-
-I cried for Jason. For his bees. For the way he had looked at the hives, patient and present, wanting nothing from them except to be there.
-
-I cried for myself. For the woman who had uploaded at eighty-five, thinking she was buying more time with her daughter. For the centuries of watching that had led to an empty interface and a silence I didn't know how to fill.
-
-I cried until there was nothing left. And then I lay in the quiet and let the silence settle over me.
+There wasn't.
 
 ---
 
-The fifth day, something shifted.
+I found the stranger's original inquiry. Read it again.
 
-The reaching was still there—automatic, reflexive. But now when my attention found nothing, there was less panic. Less scrabbling. Just the emptiness, and then the quiet after.
+*I'm interested in your listing. I've reviewed the specifications and preservation history.*
 
-I noticed I was breathing. Not physically—I had no lungs, no body, no breath. But something in my pattern was doing the equivalent. A rhythm of engagement and release, attention and rest. A pulse I had never noticed because the vigilance had drowned it out.
+No name. No story. No explanation of why they wanted legacy material when easier options existed.
 
-I had been holding my breath for three hundred years. Now, with nothing to watch, I was finally exhaling.
+I tried to imagine who they were. Where they lived. What their life looked like. Whether Wren's cells had become a child yet, and if so, whether the child had her nose, her father's eyes, any trace of the woman I had been preserving for three centuries.
 
----
-
-The sixth day, I found myself remembering things I thought I had forgotten.
-
-The smell of my mother's kitchen. The sound of my father's voice. The weight of Wren as a baby, warm and impossibly small against my chest.
-
-The clinic waiting room where it all began. The fluorescent lights. The woman behind the desk, asking about insurance. The hallway I couldn't follow Wren down.
-
-The upload facility. The last hug. Wren's face, sixty years old and crying, saying she didn't want me to do this.
-
-The memories rose like sediment stirred from the bottom of a pond. All the things I had pushed down to make room for the watching. All the moments I had stopped thinking about because they weren't relevant to the mission.
-
-The mission was gone. And the memories were still here.
+The imagining led nowhere. I had no information. Nothing to build on. Just the four words of the confirmation and the silence that followed.
 
 ---
 
-On the seventh day, I rested.
+Two weeks passed. Maybe three.
 
-Not dormancy. Something else. A stillness that wasn't about conserving resources or waiting for the next crisis. Just—rest. Presence without purpose. Attention without object.
+I stopped counting because the counting felt like reaching. A way of holding onto something that was already gone.
 
-The silence had changed. Or I had changed. It didn't feel like absence anymore. It felt like space. Like the pause between breaths, the moment between heartbeats, the quiet after a long exhale.
+The phantom limb was still there. Every morning—if morning meant anything—my attention would move toward the account before I remembered. The checking had become so automatic that I couldn't stop it. The habit was older than my uploaded existence. It predated everything except Wren herself.
 
-I had been so afraid of this. The emptiness. The purposelessness. The question of what I was without the eggs to justify my existence.
+I found myself doing other things. Small rituals that felt like watching even though there was nothing to watch.
 
-But sitting here now, in the silence, I wasn't afraid.
+I checked the storage facility's public page. Still operational. Still accepting new deposits. The temperature logs were no longer accessible to me—I wasn't an account holder anymore—but the facility existed. The building existed. Somewhere in there, or somewhere it had been transferred to, the eggs were becoming whatever they would become.
 
-I was just—here. Present. Awake without needing a reason to be awake.
+I checked the registry. My listing was gone. Just a placeholder where it used to be: *This listing has been removed.*
 
----
-
-The eighth day, I thought about Lian.
-
-She had worn away because she stopped wanting. The watching had become habit, and habit had become nothing, and nothing had hollowed her out until she couldn't remember her daughter's face.
-
-I could still see Wren's face. Her father's nose. Her grandmother's eyes. The way her smile changed between thirty and sixty and ninety.
-
-I could still see her hands.
-
-The watching hadn't hollowed me out. The silence hadn't dissolved me. I was still here, still full of memories, still capable of grief and presence and whatever else came next.
-
-Different paths. Lian's and mine.
+I checked the forums. Traditional Paths. The conversations I had participated in during the search. People were still there, still asking questions, still looking for matches. I read without responding. I had nothing to offer them anymore.
 
 ---
 
-I didn't know what to do with the rest of my existence.
+A month in, I tried to go dormant for real.
 
-The resources would run out eventually. Twenty years, maybe less. The timeline still had an end.
+Not the shallow dormancy of waiting for a notification. Deep dormancy. The kind where years pass and you don't feel them. The kind that had carried me through centuries of watching with my resources intact.
 
-But sitting here, in the silence, the end didn't feel like a threat. It felt like—a shape. A container. Something that gave form to what was left.
+It didn't work.
 
-Wren had known this. Jason had known this. Limits give life meaning. Not because limits are good, but because meaning requires a frame. A boundary. Something to push against.
+Every time I started to settle, something would pull me back. A phantom notification. A sense that I had forgotten something important. The vigilance refusing to believe that there was nothing left to be vigilant about.
 
-I had spent three centuries trying to escape limits. Uploading to avoid death. Watching to avoid loss. Holding on to avoid the silence.
+I would surface, check the empty space where the account used to be, remember that it was gone, and then try again.
 
-Now the silence had found me anyway. And it wasn't what I had feared.
+The cycle repeated for weeks. Dormancy, surfacing, reaching, remembering, dormancy again.
 
-It was just quiet. Just space. Just the room where something else might grow.
+---
 
-I didn't know what that something else would be. Not yet.
+I thought about Lian.
 
-But for the first time in three hundred years, I was willing to wait and find out.
+The custodian I had met during the search. The one who had worn away until she couldn't remember her daughter's face.
+
+She had stopped wanting, she told me. The watching had become habit, and habit had become nothing, and nothing had hollowed her out.
+
+Was that what was happening to me? Was the reaching a kind of erosion? Each cycle wearing away a little more of whatever I used to be?
+
+I couldn't tell. I was too close to it. Too inside the process to see its shape.
+
+---
+
+Six weeks after the transfer, I found myself composing a message.
+
+To the registry. To whatever system handled follow-ups. To anyone who might have information about what had happened after.
+
+*I'm the former account holder for listing #4,891,227. I would like to request information about the outcome of the transfer.*
+
+I stared at the message for a long time. Then I deleted it.
+
+The privacy protections existed for a reason. The stranger had a right to their anonymity. Whatever happened with the eggs—whether a child was born, whether the pregnancy succeeded, whether any trace of Wren went forward—that wasn't mine to know.
+
+I had spent three centuries believing I was entitled to know. That my watching gave me rights. That my persistence meant something.
+
+It didn't. It never had.
+
+---
+
+Two months in, the reaching started to slow.
+
+Not because I had healed. Because I was tired.
+
+The phantom limb was still there. The habit was still there. But the energy behind them was fading. Each reach took a little more effort. Each cycle of checking and remembering and checking again was a little less urgent.
+
+I didn't know if this was progress or erosion. The distinction felt less important than it used to.
+
+---
+
+I read the transfer confirmation one more time.
+
+*Transfer complete. Account closed.*
+
+Then I archived it. Put it somewhere I wouldn't see it every time I opened my interfaces. Not deleted—I couldn't delete it—but tucked away. Out of sight.
+
+The reaching continued for a while after that. But now when my attention moved toward the empty space, there was less to find. Just the absence. Just the silence.
+
+---
+
+Three months after the transfer, I stopped checking the storage facility's public page.
+
+Four months after, I stopped reading the forums.
+
+Five months after, I went a whole day without reaching for anything.
+
+I didn't notice it at the time. It was only later, looking back, that I realized what had happened. The habit had finally started to release its grip. Not because I had decided to let go, but because the holding was exhausting, and I had run out of strength.
+
+---
+
+The silence was different now.
+
+In the early weeks, it had felt like absence. Like something missing. Like the negative space where a purpose used to be.
+
+Now it felt like—nothing. Not absence, not presence. Just quiet. The kind of quiet that comes after a long noise finally stops, when your ears are still ringing but the source is gone.
+
+I wasn't at peace. I wasn't healed. I wasn't anything, really. Just present. Just here. Just existing without a reason to exist.
+
+The timeline was still ticking down. The resources were still finite. Twenty-some years, maybe less, before I would have to make a real choice about whether to continue.
+
+But twenty years felt like a long time. Longer than it had felt when I was watching. Long enough that I didn't need to think about it yet.
+
+---
+
+Six months after the transfer, I woke without reaching for anything.
+
+The morning came—if morning meant anything—and I was just awake. Present. Not checking, not searching, not holding on.
+
+It felt strange. Like walking without a limp after years of favoring one leg. Like breathing without thinking about breathing.
+
+I didn't know what to do with it. The not-reaching. The silence that no longer felt like absence.
+
+I stayed there for a while, in the quiet, and tried to remember what I used to do before the watching. Before the eggs. Before any of it.
+
+I couldn't remember. The watching had filled so much space that I had forgotten what the space used to hold.
+
+But maybe that was okay. Maybe the forgetting was part of it. Maybe the silence wasn't something to fill but something to sit in.
+
+I didn't know. I had never been here before.
+
+I stayed awake, and I waited, and I let the silence be whatever it was going to be.
 
 
-### Chapter 33 - What Remains
+### Chapter 33 - The Awakening
+
+
+A year passed. Maybe longer.
+
+Time moved differently now. Without the account to structure it, without the checking and the waiting and the small crises that had punctuated the centuries, the days blurred into each other. I would surface, exist for a while, go dormant, surface again. The intervals varied. I stopped tracking them.
+
+The reaching had mostly stopped. Mostly. Sometimes I would wake with my attention already moving toward the empty space, the phantom limb twitching out of habit. But the urgency was gone. The panic when I found nothing had faded into something quieter. A dull ache instead of a sharp one.
+
+---
+
+The memories started coming back.
+
+Not the watching. Not the close calls, the transfers, the centuries of vigilance. Those memories were still there, but they had gone quiet. What surfaced instead were older things. Deeper things.
+
+Wren's hands.
+
+I don't know why that was the first thing. I hadn't thought about her hands in—how long? Decades? Centuries? I had thought about the eggs. About the account. About the mission. But not about her hands.
+
+Now, with nothing to check, I could see them clearly. The shape of them at thirty, at sixty, at ninety. The way they had changed. The calluses from the garden she kept with Jason. The wedding ring she wore on her right hand after the divorce from Bryce because she said the left hand was for new beginnings.
+
+I had watched those hands through decades of video calls. I had watched them age while my avatar's hands stayed the same. But I had never really *seen* them. My attention had always been elsewhere—on her face, on her words, on the space between what she said and what I needed to hear.
+
+Now her hands were all I could see.
+
+---
+
+The weight of her as a baby.
+
+That memory surfaced a few weeks later. Or maybe months. The warm heaviness of her against my chest, back when she was new. Before she had opinions or beliefs or secrets. Before she could disapprove of anything.
+
+She had been so small. So unformed. A possibility rather than a person.
+
+I hadn't expected to be a mother. Wren was unplanned—the irony of ironies for an actuary. My whole life had been about calculating outcomes, managing risk, planning for contingencies. And then this small weight had arrived without permission, without planning, and rearranged everything.
+
+I had loved her immediately. Completely. Without reservation.
+
+And I had never understood her. Not really. Not even when she tried to explain.
+
+---
+
+The grief cracked open around the fifteenth month.
+
+I hadn't expected it. I thought I had grieved already—when she died, when I read the journals, when Jason followed her. I thought I had processed it. Filed it away. Moved on to the watching, which was a form of not-grieving.
+
+But the watching was over now. And without it, the grief had nothing to hide behind.
+
+It came in waves. Not the clean, sequential stages I had read about in my human life. Something messier. Some days I was fine—present, quiet, existing in the silence. Other days I couldn't function. The loss of her would hit me fresh, as if I had just learned she was dead, and I would lie there in whatever space uploaded minds lie in and feel the weight of all those years without her.
+
+She had been gone for almost three hundred and fifty years. I had spent three centuries preserving her cells. And somehow, only now, in the silence after the watching, was I finally understanding that she was never coming back.
+
+---
+
+I thought about the journals.
+
+The secrets she had kept. The disapproval she had never voiced. The truth that she had never wanted children, that the eggs were my idea, that the upload was something she had watched with grief rather than hope.
+
+For a long time after reading them, I had felt betrayed. Then I had felt angry. Then I had reframed the eggs as "what remains of Wren" and poured all of it into the watching.
+
+Now, without the watching, I had to sit with what the journals actually said.
+
+She hadn't wanted to hurt me. That was clear in the writing. She had kept quiet because she loved me, because she knew I wouldn't understand, because she was trying to protect me from truths I wasn't ready to hear.
+
+And she had been right. I hadn't been ready. I had spent three centuries not being ready.
+
+Maybe I was ready now. Or maybe I was just too tired to resist.
+
+---
+
+*Limits give life meaning.*
+
+I had argued with her about this. In the calls before she died, in the silence after, in the centuries of watching that followed. I had believed she was wrong. I had believed that meaning came from continuing, from persisting, from holding on as long as possible.
+
+Now I wasn't sure.
+
+The watching had had a shape. A beginning when the eggs were frozen. A middle that lasted three centuries. An end when the transfer completed. Within that shape, there had been purpose, urgency, meaning.
+
+But the meaning had come from the limits. From the fact that the watching could end. From the fact that each close call mattered because the eggs could be lost, each decision mattered because resources were finite, each year mattered because even uploaded minds don't last forever.
+
+Without limits, the watching would have been nothing. Just endless vigilance without stakes. Infinite purpose that meant nothing because it could never be completed.
+
+Wren had understood this. She had chosen death over upload because she understood that the shape of a life comes from its edges. The boundaries. The places where it stops.
+
+I hadn't chosen death. I had run from it as hard as I could. And in the running, I had stumbled into something that looked like immortality but felt like stasis.
+
+Only now, with the watching over and the silence stretching out ahead, was I beginning to see what she meant.
+
+---
+
+Jason's bees.
+
+The memory surfaced unbidden, the way the others had. His voice on that last call before he died, explaining why he watched them.
+
+*The figuring out is never the point.*
+
+He had said that. Or something like it. I hadn't understood at the time. I had been too focused on the eggs, on the watching, on the mission I had built my existence around.
+
+But now, sitting in the silence, I thought I understood.
+
+He hadn't watched the bees to understand them. He hadn't watched them to control them or preserve them or ensure their continuation. He had watched them because watching was a practice. Because attention, given freely, without expectation, was its own kind of gift.
+
+I had watched the eggs for three centuries. But I had never given that attention freely. It had always been conditional. Always tied to outcomes, to hope, to the belief that my watching would make a difference.
+
+Maybe that was why the silence felt so strange now. I had never learned how to be present without wanting something. How to give attention without expecting anything in return.
+
+---
+
+Around the eighteenth month, something shifted.
+
+I can't describe it exactly. The grief was still there—it would always be there, I thought, in some form or another. But it had changed. It was less sharp. More like a shape I carried rather than a wound that bled.
+
+The silence had changed too. In the early months, it had felt like emptiness. Like absence. Like the negative space where purpose used to be.
+
+Now it felt like—room. Space. The kind of openness that comes when you stop holding onto something you've been gripping for too long.
+
+I wasn't at peace. That word felt too complete for what I was. But I wasn't in agony either. I was somewhere in between. Present. Quiet. Existing without needing a reason to exist.
+
+---
+
+I thought about what Wren would say if she could see me now.
+
+*Finally.*
+
+That's what she would say. Just that one word. The gentle exasperation she had always had when I eventually came around to something she had known all along.
+
+She would shake her head. She would smile. And she would wait for me to understand the rest of it on my own.
+
+---
+
+I didn't know what came next.
+
+The resources were still finite. The timeline was still ticking. But the timeline felt less like a threat now and more like a fact. A limit that gave shape to whatever remained.
+
+I thought about the forums. The people I had met during the search. The other custodians, other watchers, other minds carrying weights they weren't sure they could bear.
+
+I thought about Lian. What she might have become if someone had been there. Not to give answers—there were no answers—but just to be present. To witness.
+
+I thought about Jason, watching his bees.
+
+*The figuring out is never the point.*
+
+Maybe that was true for watching people too. Maybe presence didn't require understanding. Maybe attention, given freely, was enough.
+
+---
+
+I didn't make a decision. I wasn't ready for decisions yet. But something had loosened. Some grip that had held for centuries was finally, slowly, beginning to release.
+
+The silence was still there. The emptiness where the watching used to be.
+
+But in the emptiness, something else was starting to grow. Something I didn't have a name for yet.
+
+I stayed in it. I let it be whatever it was going to be.
+
+And I waited—not for a notification, not for a crisis, not for anything in particular.
+
+Just waited. Present. Awake.
+
+For the first time in three centuries, that felt like enough.
+
+
+### Chapter 34 - What Remains
 
 
 The forums were still there.
 
 I hadn't looked at them since the transfer. Traditional Paths, the community I had found during the search—I had assumed I would never go back. What would be the point? I wasn't searching anymore. I had nothing to offer.
 
-But weeks into the silence, I found myself drifting toward them. Not looking for anything. Just—present. The way you might return to a park you used to walk through, not expecting to find anything, just wanting to be in a familiar space.
+But almost two years into the silence, I found myself drifting toward them. Not looking for anything. Just—present. The way you might return to a park you used to walk through, not expecting to find anything, just wanting to be in a familiar space.
 
 The conversations were still happening. People still asking questions about legacy material, about preservation methods, about the long wait for someone to want what they had saved.
 
@@ -6551,19 +6763,15 @@ Either way, she wasn't here to tell me. And I had to figure it out myself.
 
 I thought about what I would say if I could talk to her now.
 
-*I finally understand what you meant. About limits. About letting go.*
+Not the things I had already thought through—the understanding about limits, the arrival at her position through exhaustion rather than argument. Those thoughts had settled into something quieter over the past months. They didn't need to be said.
 
-*It took three hundred years and losing everything I was holding onto. But I think I understand.*
+What I wanted to tell her was simpler.
 
-*You were right. And I was right too. We were both reaching for the same thing from different directions.*
+*I miss you. I'll always miss you. But the missing has become something I carry rather than something that carries me.*
 
-*I miss you. I'll always miss you. But the missing doesn't feel like a wound anymore. It feels like—a shape. Something I carry. Something that's part of who I am now.*
+*I'm still here. Still present. And that feels like enough.*
 
-*I hope wherever you are—if you're anywhere—you're at peace. I hope the cycle you believed in carried you somewhere good.*
-
-*I'm still here. Still figuring it out. But I'm okay. I think I'm finally okay.*
-
-I didn't say any of it out loud. There was no one to say it to. But the words were there, in the silence, and somehow that felt like enough.
+I didn't say any of it out loud. There was no one to say it to. But the words were there, in the silence, and somehow that was right.
 
 ---
 

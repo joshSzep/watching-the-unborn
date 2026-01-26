@@ -1,10 +1,10 @@
-# Chapter 33: What Remains
+# Chapter 34: What Remains
 
 The forums were still there.
 
 I hadn't looked at them since the transfer. Traditional Paths, the community I had found during the search—I had assumed I would never go back. What would be the point? I wasn't searching anymore. I had nothing to offer.
 
-But weeks into the silence, I found myself drifting toward them. Not looking for anything. Just—present. The way you might return to a park you used to walk through, not expecting to find anything, just wanting to be in a familiar space.
+But almost two years into the silence, I found myself drifting toward them. Not looking for anything. Just—present. The way you might return to a park you used to walk through, not expecting to find anything, just wanting to be in a familiar space.
 
 The conversations were still happening. People still asking questions about legacy material, about preservation methods, about the long wait for someone to want what they had saved.
 
@@ -180,19 +180,15 @@ Either way, she wasn't here to tell me. And I had to figure it out myself.
 
 I thought about what I would say if I could talk to her now.
 
-*I finally understand what you meant. About limits. About letting go.*
+Not the things I had already thought through—the understanding about limits, the arrival at her position through exhaustion rather than argument. Those thoughts had settled into something quieter over the past months. They didn't need to be said.
 
-*It took three hundred years and losing everything I was holding onto. But I think I understand.*
+What I wanted to tell her was simpler.
 
-*You were right. And I was right too. We were both reaching for the same thing from different directions.*
+*I miss you. I'll always miss you. But the missing has become something I carry rather than something that carries me.*
 
-*I miss you. I'll always miss you. But the missing doesn't feel like a wound anymore. It feels like—a shape. Something I carry. Something that's part of who I am now.*
+*I'm still here. Still present. And that feels like enough.*
 
-*I hope wherever you are—if you're anywhere—you're at peace. I hope the cycle you believed in carried you somewhere good.*
-
-*I'm still here. Still figuring it out. But I'm okay. I think I'm finally okay.*
-
-I didn't say any of it out loud. There was no one to say it to. But the words were there, in the silence, and somehow that felt like enough.
+I didn't say any of it out loud. There was no one to say it to. But the words were there, in the silence, and somehow that was right.
 
 ---
 
