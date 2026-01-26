@@ -17,13 +17,18 @@ echo -e "${YELLOW}========================================${NC}"
 echo ""
 
 # Generate PDF
-echo -e "${YELLOW}[1/2] Generating PDF...${NC}"
+echo -e "${YELLOW}[1/3] Generating PDF...${NC}"
 "$SCRIPT_DIR/generate-pdf.sh"
 echo ""
 
 # Generate HTML
-echo -e "${YELLOW}[2/2] Generating HTML viewer...${NC}"
+echo -e "${YELLOW}[2/3] Generating HTML viewer...${NC}"
 "$SCRIPT_DIR/generate-html.sh"
+echo ""
+
+# Generate EPUB
+echo -e "${YELLOW}[3/3] Generating EPUB...${NC}"
+"$SCRIPT_DIR/generate-epub.sh"
 echo ""
 
 echo -e "${GREEN}========================================${NC}"

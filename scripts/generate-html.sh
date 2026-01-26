@@ -155,7 +155,7 @@ cat > "$OUTPUT_HTML" << 'HTMLHEAD'
             text-align: center;
         }
 
-        .pdf-link {
+        .download-link {
             color: rgba(255, 255, 255, 0.5);
             text-decoration: none;
             font-family: 'Source Sans 3', -apple-system, sans-serif;
@@ -163,21 +163,24 @@ cat > "$OUTPUT_HTML" << 'HTMLHEAD'
             font-weight: 400;
             letter-spacing: 0.05em;
             padding: 0.5rem 0.75rem;
-            border-left: 1px solid rgba(255, 255, 255, 0.1);
-            margin-left: 0.5rem;
             transition: color 0.2s ease;
             display: flex;
             align-items: center;
             gap: 0.4rem;
         }
 
-        .pdf-link:hover {
+        .download-link:hover {
             color: rgba(255, 255, 255, 0.85);
         }
 
-        .pdf-link svg {
+        .download-link svg {
             width: 14px;
             height: 14px;
+        }
+
+        .download-link + .download-link {
+            border-left: 1px solid rgba(255, 255, 255, 0.1);
+            margin-left: 0.25rem;
         }
 
         /* Page Container */
@@ -623,13 +626,21 @@ cat >> "$OUTPUT_HTML" << HTMLFOOT
                 <polyline points="9 18 15 12 9 6"></polyline>
             </svg>
         </button>
-        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" class="pdf-link" target="_blank" rel="noopener" title="Download PDF for offline reading">
+        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" class="download-link" target="_blank" rel="noopener" title="Download PDF for offline reading">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                 <polyline points="7 10 12 15 17 10"></polyline>
                 <line x1="12" y1="15" x2="12" y2="3"></line>
             </svg>
             PDF
+        </a>
+        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.epub" class="download-link" target="_blank" rel="noopener" title="Download EPUB for offline reading">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="7 10 12 15 17 10"></polyline>
+                <line x1="12" y1="15" x2="12" y2="3"></line>
+            </svg>
+            EPUB
         </a>
     </div>
 
