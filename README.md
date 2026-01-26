@@ -2,7 +2,7 @@
 
 ![Cover](cover.png)
 
-**A novel by Joshua Szepietowski**
+*Joshua Szepietowski*
 
 ---
 
