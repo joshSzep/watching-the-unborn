@@ -68,10 +68,10 @@ This is a story about deferred meaning, probability, and custodianship without a
 
 ## Structure
 
-- **34 chapters**, descriptive titles, ~3,000 words average (~102,000 words total)
+- **35 chapters**, descriptive titles, ~3,000 words average (~105,000 words total)
 - **Part One (Chapters 1-12)**: Human Aria. Third person, neutral angle. ~30 years.
 - **Part Two (Chapters 13-24)**: Uploaded Aria. Wren's death, the journals, Jason's death. ~36 years.
-- **Part Three (Chapters 25-34)**: Finally Aria. The long watch, the match, the silence, the awakening. ~294 years.
+- **Part Three (Chapters 25-35)**: Finally Aria. The long watch, the match, the silence, the awakening, the limit. ~312 years.
 - Time becomes blurry and impressionistic as centuries pass.
 
 ---

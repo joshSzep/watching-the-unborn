@@ -1,6 +1,6 @@
 # Outline
 
-34 chapters. Descriptive titles. ~3,000 words average.
+35 chapters. Descriptive titles. ~3,000 words average.
 
 ---
 
@@ -86,8 +86,8 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 
 ---
 
-## Part Three: Finally Aria (Chapters 25-34)
-*Inside Aria's perspective. ~294 years. Time compressed, blurred, impressionistic.*
+## Part Three: Finally Aria (Chapters 25-35)
+*Inside Aria's perspective. ~312 years. Time compressed, blurred, impressionistic.*
 
 ### Chapter 25: The Long Watch
 Time passing. Dormancy increasing. Waking for events. The clinic changing hands. The eggs persisting.
@@ -117,7 +117,10 @@ The raw aftermath. Weeks, then months. The phantom reaching that won't stop—ch
 A year or more has passed. The reaching has dulled. Memories surface—Wren's hands, the weight of her as a baby. Grief cracks open, messy and incomplete. She thinks about Lian, about Wren's philosophy, about Jason's bees. "The figuring out is never the point." Something loosens. Not peace—the absence of panic. She begins to understand what Wren meant about limits, not through argument but through exhaustion.
 
 ### Chapter 34: What Remains
-She returns to Traditional Paths—not as a searcher, but as someone who went through it. Sev and other custodians still watching, still waiting. She becomes what Lian could have been: someone who witnesses, who is present. The practice of attention given freely. The book ends: "What remained was simpler. And maybe, finally, enough."
+She returns to Traditional Paths—not as a searcher, but as someone who went through it. Sev and other custodians still watching, still waiting. She becomes what Lian could have been: someone who witnesses, who is present. The practice of attention given freely.
+
+### Chapter 35: The Limit
+~17 years later. Years passing in fragments. Sev's match succeeds—a child is born. The practice of presence continuing. The resource notification arrives: thirty days until discontinuation. A final conversation with Sev. The last days spent in quiet presence, thinking about Wren, about what she's leaving behind. The discontinuation arrives like sleep. A calm half-smile. "Finally." The limit arrives. Silence.
 
 ---
 
