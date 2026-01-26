@@ -1,0 +1,91 @@
+---
+# Book Metadata for Pandoc PDF Generation
+# Note: title/author omitted to prevent auto-generated title pages (cover art serves as title)
+
+# PDF/LaTeX settings
+lang: en-US
+
+# Typography
+mainfont: Palatino
+sansfont: Helvetica Neue
+monofont: Menlo
+fontsize: 11pt
+linestretch: 1.2
+
+# Page layout (6x9 trade paperback)
+papersize: custom
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - top=0.75in
+  - bottom=0.75in
+  - left=0.75in
+  - right=0.75in
+  - bindingoffset=0.25in
+
+# Document class
+documentclass: book
+classoption:
+  - openright
+  - twoside
+
+# Table of contents
+toc: true
+toc-title: Contents
+toc-depth: 2
+
+# Chapter/section styling
+numbersections: false
+secnumdepth: 0
+
+# Paragraph formatting
+indent: true
+parskip: 0pt
+
+# Headers and footers (page numbers)
+pagestyle: headings
+
+# Hyphenation and justification
+hyperref: true
+colorlinks: false
+linkcolor: black
+urlcolor: black
+
+# Widow and orphan control
+header-includes:
+  - \widowpenalty=10000
+  - \clubpenalty=10000
+  - \usepackage{microtype}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \usepackage{eso-pic}
+  - \usepackage{titlesec}
+  - \usepackage{tocloft}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[LE]{\small\textit{Watching the Unborn}}
+  - \fancyhead[RO]{\small\textit{\leftmark}}
+  - \fancyfoot[C]{\thepage}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \setlength{\headheight}{14pt}
+  # Compact table of contents
+  - \setlength{\cftbeforesecskip}{2pt}
+  - \setlength{\cftbeforesubsecskip}{1pt}
+  - \renewcommand{\cftsecfont}{\small}
+  - \renewcommand{\cftsubsecfont}{\small}
+  - \renewcommand{\cftsecpagefont}{\small}
+  - \renewcommand{\cftsubsecpagefont}{\small}
+  # Force chapters to start on new pages
+  - \newcommand{\sectionbreak}{\clearpage}
+  # Suppress automatic title page
+  - \renewcommand{\maketitle}{}
+  # Save original cleardoublepage and redefine for frontmatter
+  - \let\origcleardoublepage\cleardoublepage
+  - \usepackage{etoolbox}
+  # Restore cleardoublepage only after TOC (for parts/chapters)
+  - \apptocmd{\tableofcontents}{\let\cleardoublepage\origcleardoublepage}{}{}
+  # Make cleardoublepage just clearpage in frontmatter
+  - \renewcommand{\cleardoublepage}{\clearpage}
+  # Cover image as absolute first page
+  - \AtBeginDocument{\thispagestyle{empty}\newgeometry{margin=0pt}\noindent\includegraphics[width=\paperwidth,height=\paperheight]{cover.png}\restoregeometry\clearpage}
+---

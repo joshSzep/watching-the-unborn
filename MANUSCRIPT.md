@@ -1,7 +1,3 @@
-# Watching the Unborn
-
-*Joshua Szepietowski*
-
 ## Part 1 - Human Aria
 
 ### Chapter 01 - Waiting

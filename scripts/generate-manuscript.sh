@@ -7,12 +7,8 @@ REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 CHAPTERS_DIR="$REPO_ROOT/chapters"
 OUTPUT_FILE="$REPO_ROOT/MANUSCRIPT.md"
 
-# Start with title and author
+# Start with empty file (title/author omitted - cover art serves as title page)
 cat > "$OUTPUT_FILE" << 'EOF'
-# Watching the Unborn
-
-*Joshua Szepietowski*
-
 EOF
 
 # Process each part in order
