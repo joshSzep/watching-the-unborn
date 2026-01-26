@@ -18,6 +18,7 @@ PDF_SRC="$OUTPUT_ROOT/watching-the-unborn.pdf"
 PDF_DST="$OUTPUT_DIR/watching-the-unborn.pdf"
 EPUB_SRC="$OUTPUT_ROOT/watching-the-unborn.epub"
 EPUB_DST="$OUTPUT_DIR/watching-the-unborn.epub"
+ZIP_DST="$OUTPUT_ROOT/website.zip"
 README_SRC="$REPO_ROOT/README.md"
 
 # Colors for output
@@ -549,9 +550,20 @@ content = content.replace('__BLURB_HTML__', blurb)
 path.write_text(content, encoding='utf-8')
 PY
 
+# Zip the website directory for easy static hosting upload
+if command -v zip &> /dev/null; then
+  rm -f "$ZIP_DST"
+  (cd "$OUTPUT_DIR" && zip -rq "$ZIP_DST" .)
+else
+  echo -e "${YELLOW}Warning: 'zip' not found; skipping website.zip generation.${NC}"
+fi
+
 echo -e "${GREEN}Landing page generated:${NC} $OUTPUT_DIR"
 echo "- $OUTPUT_INDEX"
 echo "- $COVER_DST"
 echo "- $VIEWER_DST"
 echo "- $PDF_DST"
 echo "- $EPUB_DST"
+if [[ -f "$ZIP_DST" ]]; then
+  echo "- $ZIP_DST"
+fi
