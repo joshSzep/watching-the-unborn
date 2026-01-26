@@ -13,6 +13,7 @@ COVER_DST="$OUTPUT_DIR/cover.png"
 OUTPUT_INDEX="$OUTPUT_DIR/index.html"
 VIEWER_SRC="$REPO_ROOT/watching-the-unborn.html"
 VIEWER_DST="$OUTPUT_DIR/watching-the-unborn.html"
+README_SRC="$REPO_ROOT/README.md"
 
 # Colors for output
 RED='\033[0;31m'
@@ -25,6 +26,12 @@ echo -e "${YELLOW}Generating landing page bundle...${NC}"
 if [[ ! -f "$COVER_SRC" ]]; then
   echo -e "${RED}Error: cover.png not found at repo root.${NC}"
   echo "Expected: $COVER_SRC"
+  exit 1
+fi
+
+if [[ ! -f "$README_SRC" ]]; then
+  echo -e "${RED}Error: README.md not found at repo root.${NC}"
+  echo "Expected: $README_SRC"
   exit 1
 fi
 
@@ -41,6 +48,10 @@ if [[ ! -f "$VIEWER_SRC" ]]; then
   "$SCRIPT_DIR/generate-html.sh"
 fi
 cp "$VIEWER_SRC" "$VIEWER_DST"
+
+# Extract the Blurb section from the repo README and convert it to HTML
+BLURB_MD=$(awk 'BEGIN{p=0} /^##[[:space:]]+Blurb[[:space:]]*$/{p=1; next} /^##[[:space:]]+Genre[[:space:]]*$/{p=0} p{print}' "$README_SRC" | sed '/^[[:space:]]*$/N;/^\n$/D')
+BLURB_HTML=$(printf "%s\n" "$BLURB_MD" | pandoc -f markdown -t html --wrap=none)
 
 # Write landing page HTML
 cat > "$OUTPUT_INDEX" << 'HTML'
@@ -367,6 +378,7 @@ cat > "$OUTPUT_INDEX" << 'HTML'
     <div class="nav-inner wrap">
       <div class="brand"><a href="#top">Watching the Unborn</a></div>
       <div class="nav-links">
+        <a href="#blurb">Blurb</a>
         <a href="#story">Story</a>
         <a href="#themes">Themes</a>
         <a href="#download">Download</a>
@@ -390,11 +402,11 @@ cat > "$OUTPUT_INDEX" << 'HTML'
 
         <div class="cta-row" id="download">
           <a class="btn btn-primary" href="watching-the-unborn.html">Read Online</a>
-          <a class="btn" href="watching-the-unborn.html" download>Download HTML</a>
+          <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
           <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" target="_blank" rel="noopener">Download PDF</a>
           <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.epub" target="_blank" rel="noopener">Download EPUB</a>
+          <a class="btn" href="https://github.com/joshSzep/watching-the-unborn" target="_blank" rel="noopener">Project Repo</a>
         </div>
-        <div class="fineprint">The online reader is bundled in this zip. PDF/EPUB are hosted on GitHub.</div>
       </div>
 
       <div>
@@ -402,6 +414,14 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       </div>
     </div>
   </main>
+
+  <section id="blurb" class="section">
+    <div class="wrap premise">
+      <div class="subtitle">From the jacket copy</div>
+      <h2>Blurb</h2>
+      __BLURB_HTML__
+    </div>
+  </section>
 
   <section id="story" class="section">
     <div class="wrap premise">
@@ -457,9 +477,58 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       <div>© 2026 Joshua Szepietowski</div>
     </div>
   </footer>
+
+  <script>
+    // Force-download the bundled HTML reader where possible.
+    // (The download attribute is advisory; this makes it more reliable under HTTP hosting.)
+    (function () {
+      var link = document.querySelector('[data-download-html]');
+      if (!link) return;
+
+      link.addEventListener('click', async function (e) {
+        try {
+          e.preventDefault();
+          var res = await fetch('watching-the-unborn.html', { cache: 'no-store' });
+          if (!res.ok) throw new Error('Fetch failed: ' + res.status);
+          var blob = await res.blob();
+          var url = URL.createObjectURL(blob);
+          var a = document.createElement('a');
+          a.href = url;
+          a.download = 'watching-the-unborn.html';
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+        } catch (err) {
+          // Fall back to default browser behavior.
+          window.location.href = 'watching-the-unborn.html';
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
 HTML
+
+# Inject the README blurb HTML into the generated page
+export BLURB_HTML
+export OUTPUT_INDEX
+python3 - <<'PY'
+import os
+from pathlib import Path
+
+path = Path(os.environ.get('OUTPUT_INDEX', ''))
+if not path:
+  raise SystemExit('OUTPUT_INDEX env var not set')
+
+content = path.read_text(encoding='utf-8')
+blurb = os.environ.get('BLURB_HTML', '').strip()
+if '__BLURB_HTML__' not in content:
+  raise SystemExit('Blurb placeholder not found in index.html')
+
+content = content.replace('__BLURB_HTML__', blurb)
+path.write_text(content, encoding='utf-8')
+PY
 
 echo -e "${GREEN}Landing page generated:${NC} $OUTPUT_DIR"
 echo "- $OUTPUT_INDEX"

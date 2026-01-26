@@ -321,6 +321,7 @@
     <div class="nav-inner wrap">
       <div class="brand"><a href="#top">Watching the Unborn</a></div>
       <div class="nav-links">
+        <a href="#blurb">Blurb</a>
         <a href="#story">Story</a>
         <a href="#themes">Themes</a>
         <a href="#download">Download</a>
@@ -344,11 +345,11 @@
 
         <div class="cta-row" id="download">
           <a class="btn btn-primary" href="watching-the-unborn.html">Read Online</a>
-          <a class="btn" href="watching-the-unborn.html" download>Download HTML</a>
+          <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
           <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" target="_blank" rel="noopener">Download PDF</a>
           <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.epub" target="_blank" rel="noopener">Download EPUB</a>
+          <a class="btn" href="https://github.com/joshSzep/watching-the-unborn" target="_blank" rel="noopener">Project Repo</a>
         </div>
-        <div class="fineprint">The online reader is bundled in this zip. PDF/EPUB are hosted on GitHub.</div>
       </div>
 
       <div>
@@ -356,6 +357,19 @@
       </div>
     </div>
   </main>
+
+  <section id="blurb" class="section">
+    <div class="wrap premise">
+      <div class="subtitle">From the jacket copy</div>
+      <h2>Blurb</h2>
+      <p><strong>Fourteen cells. Three hundred years. One mother who refused to let go.</strong></p>
+<p>Aria Chen is a woman defined by control. Wren, her daughter, is defined by acceptance. When Aria faces terminal heart failure, she chooses the ultimate contingency plan: uploading her mind to the cloud to watch over Wren’s frozen eggs—a biological legacy preserved in a cryo-facility in Los Angeles.</p>
+<p>It is a vigil that will span centuries.</p>
+<p>From her digital afterlife, Aria tracks the safety of the eggs through corporate mergers, system failures, and the slow erosion of the world she knew. But while Aria persists in a static, digital forever, Wren lives a human life of messy, beautiful impermanence.</p>
+<p>After Wren’s death, Aria is left with the crushing truth of her daughter’s secret journals—a revelation that reframes their entire history. Adrift in a future that views her as an antique, Aria must decide whether to hoard her remaining resources to last forever, or to burn them all for a chance at genuine connection.</p>
+<p><em>Watching the Unborn</em> is a haunting exploration of grief, technology, and the terrifying difference between living and merely continuing.</p>
+    </div>
+  </section>
 
   <section id="story" class="section">
     <div class="wrap premise">
@@ -411,5 +425,34 @@
       <div>© 2026 Joshua Szepietowski</div>
     </div>
   </footer>
+
+  <script>
+    // Force-download the bundled HTML reader where possible.
+    // (The download attribute is advisory; this makes it more reliable under HTTP hosting.)
+    (function () {
+      var link = document.querySelector('[data-download-html]');
+      if (!link) return;
+
+      link.addEventListener('click', async function (e) {
+        try {
+          e.preventDefault();
+          var res = await fetch('watching-the-unborn.html', { cache: 'no-store' });
+          if (!res.ok) throw new Error('Fetch failed: ' + res.status);
+          var blob = await res.blob();
+          var url = URL.createObjectURL(blob);
+          var a = document.createElement('a');
+          a.href = url;
+          a.download = 'watching-the-unborn.html';
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+        } catch (err) {
+          // Fall back to default browser behavior.
+          window.location.href = 'watching-the-unborn.html';
+        }
+      });
+    })();
+  </script>
 </body>
 </html>

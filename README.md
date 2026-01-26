@@ -23,3 +23,7 @@ After Wren’s death, Aria is left with the crushing truth of her daughter's sec
 ## Genre
 
 Literary science fiction, speculative fiction, near-future, character-driven drama.
+
+---
+
+© 2026 Joshua Szepietowski. All rights reserved.
