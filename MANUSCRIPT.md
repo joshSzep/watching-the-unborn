@@ -4,7 +4,7 @@
 
 ## Part 1 - Human Aria
 
-### Chapter 01 - The Waiting Room
+### Chapter 01 - Waiting
 
 
 The clinic kept its silence the way churches do. Not an absence of sound but a presence of hush—the ventilation system breathing its constant breath, the carpet absorbing footsteps, the walls painted the color of nothing anyone would remember.
@@ -149,7 +149,7 @@ In a tank somewhere, fourteen cells held their breath.
 
 ---
 
-### Chapter 02 - After the Divorce
+### Chapter 02 - Bryce
 
 
 The house in Pasadena had a jacaranda tree in the front yard. In May, when the blossoms fell, they covered the walkway in a purple so vivid it looked like a wound. Aria had always thought it was the kind of tree you planted when you expected to stay.
@@ -523,7 +523,7 @@ Aria finished her coffee and went to work.
 
 ---
 
-### Chapter 04 - The Dinner
+### Chapter 04 - Dinner
 
 
 Aria brought wine. She always brought wine—it was the kind of thing you did when you were invited to someone's home, the small ritual of arrival, the offering that said *I am a guest here, I come bearing gifts*. But standing on the porch of Jason's house in Echo Park, holding a bottle of pinot noir she had chosen too quickly at the store, she felt the gesture's inadequacy. What did you bring to a beekeeper's house? Honey would be an insult. Flowers seemed wrong. Wine it was.
@@ -975,7 +975,7 @@ She would use them well.
 
 ---
 
-### Chapter 06 - The Question
+### Chapter 06 - Options
 
 
 Aria had been thinking about how to ask for weeks. The words arranged and rearranged themselves in her mind—casual, direct, oblique, earnest—none of them quite right. It was the kind of question that changed its shape depending on how you held it, that meant different things at different angles.
@@ -1174,7 +1174,7 @@ For now, that was more than enough.
 
 ---
 
-### Chapter 07 - The Practice
+### Chapter 07 - Sangha
 
 
 The wedding was held at the sangha's meditation center, the same rented space above the Vietnamese restaurant where Wren had been practicing for fifteen years. Aria climbed the narrow stairs, her hand on the railing, her heart working harder than it should have to lift her sixty pounds of celebratory dress and comfortable shoes.
@@ -1347,7 +1347,7 @@ It had to be enough.
 
 ---
 
-### Chapter 08 - Aria Aging
+### Chapter 08 - Slowing
 
 
 The body kept its own calendar.
@@ -1580,7 +1580,7 @@ Then she finished her tea and went to bed, the brochure still on the table, the 
 
 ---
 
-### Chapter 09 - The Offer
+### Chapter 09 - Continuation
 
 
 The medical evaluation took four hours. They scanned her brain in a machine that hummed like a distant highway, then drew blood, tested reflexes, asked her to count backward from one hundred by sevens. They measured her heart's electrical activity and the oxygen levels in her tissues and the speed at which her neurons fired in response to stimuli.
@@ -1815,7 +1815,7 @@ It wasn't a good reason. But it was her reason, and she had made her peace with 
 
 ---
 
-### Chapter 10 - The Conversation
+### Chapter 10 - Goodbyes
 
 
 The three months passed the way all final things pass: too quickly and too slowly at the same time.
@@ -2052,7 +2052,7 @@ She turned off the lights and went to bed, and slept, and dreamed of nothing she
 
 ---
 
-### Chapter 11 - The Facility
+### Chapter 11 - Preparation
 
 
 The building was designed to not look like what it was.
@@ -2488,7 +2488,7 @@ The watching had begun.
 
 ## Part 2 - Uploaded Aria
 
-### Chapter 13 - The Account
+### Chapter 13 - Accessing
 
 
 The dashboard became my window.
@@ -2824,7 +2824,7 @@ The tenth year arrived. The eggs remained frozen. The vigil continued.
 
 ---
 
-### Chapter 15 - Wren at Seventy
+### Chapter 15 - Seventy
 
 
 The calls had settled into a pattern. Wednesday evenings, her time. Early morning, mine—though morning meant nothing when there was no sun, no body, no coffee cooling in a cup.
@@ -3015,7 +3015,7 @@ The watching continued. The vigil went on.
 
 ---
 
-### Chapter 16 - The Argument
+### Chapter 16 - Limits
 
 
 It started the way most arguments start—not with a decision to fight, but with a word that landed wrong.
@@ -3240,7 +3240,7 @@ And I didn't know how to bear it.
 
 ---
 
-### Chapter 17 - Jason's Bees
+### Chapter 17 - Bees
 
 
 The call wasn't scheduled. Jason appeared on my screen on a Thursday afternoon, his face filling the frame, the sound of wind behind him.
@@ -3439,7 +3439,7 @@ That was a start.
 
 ---
 
-### Chapter 18 - The First Transfer
+### Chapter 18 - Acquisition
 
 
 The notification arrived on a Tuesday.
@@ -3630,7 +3630,7 @@ Whether it ever would be.
 
 ---
 
-### Chapter 19 - Wren at Ninety
+### Chapter 19 - Approaching
 
 
 The calls had become monthly.
@@ -4003,7 +4003,7 @@ I opened the second entry, and I began to read.
 
 ---
 
-### Chapter 21 - The Journals
+### Chapter 21 - Secrets
 
 
 I read for three days.
@@ -4604,7 +4604,7 @@ I was starting to see what I was holding. And I was starting to wonder whether I
 
 ---
 
-### Chapter 24 - Jason's Way
+### Chapter 24 - Letting Go
 
 
 The last months of Jason's life were quiet.
@@ -4795,7 +4795,7 @@ Then I began the long watch alone.
 
 ## Part 3 - Finally Aria
 
-### Chapter 25 - The Long Watch
+### Chapter 25 - Watching
 
 
 The first year without Jason, I stayed awake.
@@ -5242,7 +5242,7 @@ The eggs were viable. I was dormant. And somewhere in the gap between those two 
 
 ---
 
-### Chapter 27 - The World Changed
+### Chapter 27 - Unrecognizable
 
 
 I woke and didn't know the year.
@@ -5429,7 +5429,7 @@ The eggs remained preserved. The world continued to change. And somewhere in the
 
 ---
 
-### Chapter 28 - The Other Custodian
+### Chapter 28 - Lian
 
 
 I found her in a forum for legacy account holders.
@@ -5670,7 +5670,7 @@ This time I was waiting for something I had chosen.
 
 ---
 
-### Chapter 29 - The Search
+### Chapter 29 - Searching
 
 
 The listing went live on a Tuesday.
@@ -6042,7 +6042,7 @@ Well. At least I would have been awake for it.
 
 ---
 
-### Chapter 31 - The Match
+### Chapter 31 - Thursday
 
 
 The notification arrived on a Thursday.
@@ -6452,7 +6452,7 @@ I stayed awake, and I waited, and I let the silence be whatever it was going to 
 
 ---
 
-### Chapter 33 - The Awakening
+### Chapter 33 - Loosening
 
 
 A year passed. Maybe longer.
@@ -6830,7 +6830,7 @@ What remained was simpler. And maybe, finally, enough.
 
 ---
 
-### Chapter 35 - The Limit
+### Chapter 35 - Finally
 
 
 The years passed like water.

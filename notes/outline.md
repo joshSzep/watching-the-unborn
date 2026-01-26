@@ -7,37 +7,37 @@
 ## Part One: Human Aria (Chapters 1-12)
 *Third person, neutral angle. ~30 years. Observing from outside.*
 
-### Chapter 1: The Waiting Room
+### Chapter 1: Waiting
 The clinic visit. Aria and Wren in the waiting room. Forms. The hallway Aria can't enter. The eggs go into storage.
 
-### Chapter 2: After the Divorce
+### Chapter 2: Bryce
 Recent past. Wren's marriage to Bryce ending. Wren finding Buddhism. Aria processing the loss of the future she expected.
 
 ### Chapter 3: Jason
 Wren introduces Jason to Aria. The beekeeper. The man who replaced the cop. Aria's initial reservation, then warming.
 
-### Chapter 4: The Dinner
+### Chapter 4: Dinner
 A gathering: Aria, Wren, Jason. The dynamic between them. Warmth through friction. What's said and unsaid.
 
 ### Chapter 5: Renewal
 Years passing through renewal notices. Aria pays. Jason's pneumonia scare. Wren takes over payments. Aria's diagnosis. The upload first mentioned.
 
-### Chapter 6: The Question
+### Chapter 6: Options
 Aria asks Wren about grandchildren. Wren deflects. "I froze the eggs because you asked me to." The conversation that goes nowhere. Wren's wedding announcement.
 
-### Chapter 7: The Practice
+### Chapter 7: Sangha
 Wren and Jason's Buddhist life. The wedding. Aria observing from outside. The sangha. Jason's cracks: the phone, the withdrawal. A world she doesn't understand but accepts.
 
-### Chapter 8: Aria Aging
+### Chapter 8: Slowing
 Years passing. Aria's body beginning to slow. The falls. Looking at ground-floor units. Consultation at the upload facility.
 
-### Chapter 9: The Offer
+### Chapter 9: Continuation
 The evaluations. The conversation with Wren: "Mom, I'm not a story." "Everything is always unfinished." The contract signed.
 
-### Chapter 10: The Conversation
+### Chapter 10: Goodbyes
 The last three months. Goodbyes. Jason at the hives. The clinic visit. Wren's final honesty: "I don't want you to do this." The secret about Wren's father.
 
-### Chapter 11: The Facility
+### Chapter 11: Preparation
 The upload facility. Preparation. Wren admits her own attachment. The last hug. The sedation begins.
 
 ### Chapter 12: The Procedure
@@ -48,31 +48,31 @@ The upload. Waking without body. Choosing the avatar. The first call with Wren. 
 ## Part Two: Uploaded Aria (Chapters 13-34)
 *Inside Aria's perspective. ~300 years.*
 
-### Chapter 13: The Account
+### Chapter 13: Accessing
 Aria accesses the storage account. The dashboard. Learning to exist without body. The long watch begins in earnest.
 
 ### Chapter 14: Years Awake
 Time passing. Aria staying awake, watching. Thinking. The eggs that don't change. The world that does.
 
-### Chapter 15: Wren at Seventy
+### Chapter 15: Seventy
 A decade later. Wren aging. The calls continue. The avatar stays young. The silence around what Wren really thinks.
 
-### Chapter 16: The Argument
+### Chapter 16: Limits
 Aria tries to convince Wren to upload. Wren refuses. The Buddhist reasoning. Limits give life meaning. The conversation that matters.
 
-### Chapter 17: Jason's Bees
+### Chapter 17: Bees
 A call with Jason. The apiary. His philosophy. His cracks showing. A different way of seeing time and cycles.
 
-### Chapter 18: The First Transfer
+### Chapter 18: Acquisition
 A close call. The clinic is acquired. The eggs must move. Chain-of-custody anxiety. Aria files forms, sends emails, waits.
 
-### Chapter 19: Wren at Ninety
+### Chapter 19: Approaching
 Three decades after the upload. Wren at ninety, sensing the end. Fewer calls. Forgiveness. The weight of watching someone approach death while you don't.
 
 ### Chapter 20: 3:47 AM
 A notification. The inheritance. The journals arrive.
 
-### Chapter 21: The Journals
+### Chapter 21: Secrets
 Aria reads Wren's private notes. All at once. The truth: no children wanted, disapproval of eggs, upload, avatar. Wren's late realization about her own attachment.
 
 ### Chapter 22: Processing
@@ -81,7 +81,7 @@ Aria stays awake. Time is squishy. The weight of what she now knows. The reframi
 ### Chapter 23: The Weight
 Aria confronts Jason. He knew. He kept quiet. His response: compassion, equanimity, trying to help her understand.
 
-### Chapter 24: Jason's Way
+### Chapter 24: Letting Go
 More conversations with Jason. The Buddhist perspective. Suffering. Letting go. The view Aria is beginning to grasp. Jason dies. True solitude begins.
 
 ---
@@ -89,37 +89,37 @@ More conversations with Jason. The Buddhist perspective. Suffering. Letting go. 
 ## Part Three: Finally Aria (Chapters 25-35)
 *Inside Aria's perspective. ~312 years. Time compressed, blurred, impressionistic.*
 
-### Chapter 25: The Long Watch
+### Chapter 25: Watching
 Time passing. Dormancy increasing. Waking for events. The clinic changing hands. The eggs persisting.
 
 ### Chapter 26: The Close Call
 A crisis. Infrastructure failure, or policy threat, or something else. Aria's persistence makes the difference—or does it?
 
-### Chapter 27: The World Changed
+### Chapter 27: Unrecognizable
 Waking after a long dormancy. The world unrecognizable. New systems, new language, new institutions. The eggs still there.
 
-### Chapter 28: The Other Custodian
+### Chapter 28: Lian
 Aria encounters another mind preserving legacy biological material—someone further along the same path. Seeing her own situation from outside. The materials were eventually discontinued because there was no intent, no plan. Jason's words return: the figuring out was never the point. Maybe watching isn't enough. The pivot from passive custodianship to active search.
 
-### Chapter 29: The Search
+### Chapter 29: Searching
 Aria actively searching for a recipient. Filing forms, making contacts, navigating systems that keep changing.
 
 ### Chapter 30: The Cost
 Aria's hosting is flagged—847% over baseline. Engagement has a price. The choice: go dormant and persist indefinitely, or stay engaged and deplete resources. Continuity verification. She chooses to keep spending herself. Forty-three years becomes thirty-one. The question isn't whether to end, but how to spend the time before ending.
 
-### Chapter 31: The Match
+### Chapter 31: Thursday
 A stranger's inquiry. Anticlimactic after three centuries—just another notification. The opaque stranger: no name, no reasons, just a request. Aria approves. The transfer happens through regulated channels. The eggs leave her custody. Account closed. "What now?"
 
 ### Chapter 32: The Silence
 The raw aftermath. Weeks, then months. The phantom reaching that won't stop—checking the empty space where the account used to be. She searches old archives, re-reads the transfer confirmation, looks for any thread to follow. The habit of watching keeps going with nothing to watch. The reaching slows not because she heals but because she's exhausted. Ends in tired stillness, not resolution.
 
-### Chapter 33: The Awakening
+### Chapter 33: Loosening
 A year or more has passed. The reaching has dulled. Memories surface—Wren's hands, the weight of her as a baby. Grief cracks open, messy and incomplete. She thinks about Lian, about Wren's philosophy, about Jason's bees. "The figuring out is never the point." Something loosens. Not peace—the absence of panic. She begins to understand what Wren meant about limits, not through argument but through exhaustion.
 
 ### Chapter 34: What Remains
 She returns to Traditional Paths—not as a searcher, but as someone who went through it. Sev and other custodians still watching, still waiting. She becomes what Lian could have been: someone who witnesses, who is present. The practice of attention given freely.
 
-### Chapter 35: The Limit
+### Chapter 35: Finally
 ~17 years later. Years passing in fragments. Sev's match succeeds—a child is born. The practice of presence continuing. The resource notification arrives: thirty days until discontinuation. A final conversation with Sev. The last days spent in quiet presence, thinking about Wren, about what she's leaving behind. The discontinuation arrives like sleep. A calm half-smile. "Finally." The limit arrives. Silence.
 
 ---

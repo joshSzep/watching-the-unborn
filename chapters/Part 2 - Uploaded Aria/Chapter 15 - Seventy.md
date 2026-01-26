@@ -1,4 +1,4 @@
-# Chapter 15: Wren at Seventy
+# Chapter 15: Seventy
 
 The calls had settled into a pattern. Wednesday evenings, her time. Early morning, mine—though morning meant nothing when there was no sun, no body, no coffee cooling in a cup.
 

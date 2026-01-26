@@ -1,4 +1,4 @@
-# Chapter 7: The Practice
+# Chapter 7: Sangha
 
 The wedding was held at the sangha's meditation center, the same rented space above the Vietnamese restaurant where Wren had been practicing for fifteen years. Aria climbed the narrow stairs, her hand on the railing, her heart working harder than it should have to lift her sixty pounds of celebratory dress and comfortable shoes.
 

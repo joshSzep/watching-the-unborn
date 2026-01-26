@@ -1,4 +1,4 @@
-# Chapter 21: The Journals
+# Chapter 21: Secrets
 
 I read for three days.
 

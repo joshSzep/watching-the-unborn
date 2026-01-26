@@ -1,4 +1,4 @@
-# Chapter 2: After the Divorce
+# Chapter 2: Bryce
 
 The house in Pasadena had a jacaranda tree in the front yard. In May, when the blossoms fell, they covered the walkway in a purple so vivid it looked like a wound. Aria had always thought it was the kind of tree you planted when you expected to stay.
 

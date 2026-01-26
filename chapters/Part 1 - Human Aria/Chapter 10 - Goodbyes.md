@@ -1,4 +1,4 @@
-# Chapter 10: The Conversation
+# Chapter 10: Goodbyes
 
 The three months passed the way all final things pass: too quickly and too slowly at the same time.
 

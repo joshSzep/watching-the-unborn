@@ -1,4 +1,4 @@
-# Chapter 24: Jason's Way
+# Chapter 24: Letting Go
 
 The last months of Jason's life were quiet.
 

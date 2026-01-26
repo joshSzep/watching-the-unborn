@@ -1,4 +1,4 @@
-# Chapter 18: The First Transfer
+# Chapter 18: Acquisition
 
 The notification arrived on a Tuesday.
 

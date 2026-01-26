@@ -1,4 +1,4 @@
-# Chapter 1: The Waiting Room
+# Chapter 1: Waiting
 
 The clinic kept its silence the way churches do. Not an absence of sound but a presence of hush—the ventilation system breathing its constant breath, the carpet absorbing footsteps, the walls painted the color of nothing anyone would remember.
 

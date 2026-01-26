@@ -1,4 +1,4 @@
-# Chapter 9: The Offer
+# Chapter 9: Continuation
 
 The medical evaluation took four hours. They scanned her brain in a machine that hummed like a distant highway, then drew blood, tested reflexes, asked her to count backward from one hundred by sevens. They measured her heart's electrical activity and the oxygen levels in her tissues and the speed at which her neurons fired in response to stimuli.
 

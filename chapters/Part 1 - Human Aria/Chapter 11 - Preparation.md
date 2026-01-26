@@ -1,4 +1,4 @@
-# Chapter 11: The Facility
+# Chapter 11: Preparation
 
 The building was designed to not look like what it was.
 

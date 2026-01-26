@@ -1,4 +1,4 @@
-# Chapter 13: The Account
+# Chapter 13: Accessing
 
 The dashboard became my window.
 

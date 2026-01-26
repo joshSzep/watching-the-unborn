@@ -1,4 +1,4 @@
-# Chapter 33: The Awakening
+# Chapter 33: Loosening
 
 A year passed. Maybe longer.
 

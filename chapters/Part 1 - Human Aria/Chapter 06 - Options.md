@@ -1,4 +1,4 @@
-# Chapter 6: The Question
+# Chapter 6: Options
 
 Aria had been thinking about how to ask for weeks. The words arranged and rearranged themselves in her mind—casual, direct, oblique, earnest—none of them quite right. It was the kind of question that changed its shape depending on how you held it, that meant different things at different angles.
 

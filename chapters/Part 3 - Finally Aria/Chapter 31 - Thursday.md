@@ -1,4 +1,4 @@
-# Chapter 31: The Match
+# Chapter 31: Thursday
 
 The notification arrived on a Thursday.
 

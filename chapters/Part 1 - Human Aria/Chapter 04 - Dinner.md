@@ -1,4 +1,4 @@
-# Chapter 4: The Dinner
+# Chapter 4: Dinner
 
 Aria brought wine. She always brought wine—it was the kind of thing you did when you were invited to someone's home, the small ritual of arrival, the offering that said *I am a guest here, I come bearing gifts*. But standing on the porch of Jason's house in Echo Park, holding a bottle of pinot noir she had chosen too quickly at the store, she felt the gesture's inadequacy. What did you bring to a beekeeper's house? Honey would be an insult. Flowers seemed wrong. Wine it was.
 

@@ -1,4 +1,4 @@
-# Chapter 29: The Search
+# Chapter 29: Searching
 
 The listing went live on a Tuesday.
 

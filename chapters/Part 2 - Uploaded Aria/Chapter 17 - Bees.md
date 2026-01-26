@@ -1,4 +1,4 @@
-# Chapter 17: Jason's Bees
+# Chapter 17: Bees
 
 The call wasn't scheduled. Jason appeared on my screen on a Thursday afternoon, his face filling the frame, the sound of wind behind him.
 
