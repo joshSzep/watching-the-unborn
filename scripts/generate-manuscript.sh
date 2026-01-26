@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Generate manuscript from chapter files
-# Outputs MANUSCRIPT.md in the repository root
+# Outputs output/watching-the-unborn.md
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 CHAPTERS_DIR="$REPO_ROOT/chapters"
-OUTPUT_FILE="$REPO_ROOT/MANUSCRIPT.md"
+OUTPUT_DIR="$REPO_ROOT/output"
+OUTPUT_FILE="$OUTPUT_DIR/watching-the-unborn.md"
+
+mkdir -p "$OUTPUT_DIR"
 
 # Start with empty file (title/author omitted - cover art serves as title page)
 cat > "$OUTPUT_FILE" << 'EOF'

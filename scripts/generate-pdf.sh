@@ -7,8 +7,9 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-MANUSCRIPT="$REPO_ROOT/MANUSCRIPT.md"
-OUTPUT_PDF="$REPO_ROOT/watching-the-unborn.pdf"
+OUTPUT_DIR="$REPO_ROOT/output"
+MANUSCRIPT="$OUTPUT_DIR/watching-the-unborn.md"
+OUTPUT_PDF="$OUTPUT_DIR/watching-the-unborn.pdf"
 METADATA="$SCRIPT_DIR/metadata.yaml"
 
 # Colors for output
@@ -18,6 +19,8 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 echo -e "${YELLOW}Generating PDF...${NC}"
+
+mkdir -p "$OUTPUT_DIR"
 
 # Check dependencies
 if ! command -v pandoc &> /dev/null; then

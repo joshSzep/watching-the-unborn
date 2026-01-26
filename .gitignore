@@ -4,3 +4,6 @@
 # Editor files
 *.swp
 *~
+
+# Generated outputs
+/output/

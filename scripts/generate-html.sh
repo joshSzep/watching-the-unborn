@@ -7,9 +7,13 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-OUTPUT_HTML="$REPO_ROOT/watching-the-unborn.html"
+OUTPUT_DIR="$REPO_ROOT/output"
+OUTPUT_HTML="$OUTPUT_DIR/watching-the-unborn.html"
 COVER_IMAGE="$REPO_ROOT/cover.png"
 CHAPTERS_DIR="$REPO_ROOT/chapters"
+
+# Public canonical host for downloads
+HOST_BASE_URL="https://watching-the-unborn.joshszep.com"
 
 # Colors for output
 RED='\033[0;31m'
@@ -18,6 +22,8 @@ YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
 echo -e "${YELLOW}Generating HTML viewer...${NC}"
+
+mkdir -p "$OUTPUT_DIR"
 
 # Check dependencies
 if ! command -v pandoc &> /dev/null; then
@@ -626,7 +632,7 @@ cat >> "$OUTPUT_HTML" << HTMLFOOT
                 <polyline points="9 18 15 12 9 6"></polyline>
             </svg>
         </button>
-        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" class="download-link" target="_blank" rel="noopener" title="Download PDF for offline reading">
+        <a href="${HOST_BASE_URL}/watching-the-unborn.pdf" class="download-link" target="_blank" rel="noopener" title="Download PDF for offline reading">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                 <polyline points="7 10 12 15 17 10"></polyline>
@@ -634,7 +640,7 @@ cat >> "$OUTPUT_HTML" << HTMLFOOT
             </svg>
             PDF
         </a>
-        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.epub" class="download-link" target="_blank" rel="noopener" title="Download EPUB for offline reading">
+        <a href="${HOST_BASE_URL}/watching-the-unborn.epub" class="download-link" target="_blank" rel="noopener" title="Download EPUB for offline reading">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                 <polyline points="7 10 12 15 17 10"></polyline>
@@ -642,7 +648,7 @@ cat >> "$OUTPUT_HTML" << HTMLFOOT
             </svg>
             EPUB
         </a>
-        <a href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.html" class="download-link" target="_blank" rel="noopener" title="Download HTML for offline reading">
+        <a href="${HOST_BASE_URL}/watching-the-unborn.html" class="download-link" target="_blank" rel="noopener" title="Download HTML for offline reading">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                 <polyline points="7 10 12 15 17 10"></polyline>

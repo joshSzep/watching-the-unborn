@@ -7,12 +7,17 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-OUTPUT_DIR="$REPO_ROOT/website"
+OUTPUT_ROOT="$REPO_ROOT/output"
+OUTPUT_DIR="$OUTPUT_ROOT/website"
 COVER_SRC="$REPO_ROOT/cover.png"
 COVER_DST="$OUTPUT_DIR/cover.png"
 OUTPUT_INDEX="$OUTPUT_DIR/index.html"
-VIEWER_SRC="$REPO_ROOT/watching-the-unborn.html"
+VIEWER_SRC="$OUTPUT_ROOT/watching-the-unborn.html"
 VIEWER_DST="$OUTPUT_DIR/watching-the-unborn.html"
+PDF_SRC="$OUTPUT_ROOT/watching-the-unborn.pdf"
+PDF_DST="$OUTPUT_DIR/watching-the-unborn.pdf"
+EPUB_SRC="$OUTPUT_ROOT/watching-the-unborn.epub"
+EPUB_DST="$OUTPUT_DIR/watching-the-unborn.epub"
 README_SRC="$REPO_ROOT/README.md"
 
 # Colors for output
@@ -48,6 +53,38 @@ if [[ ! -f "$VIEWER_SRC" ]]; then
   "$SCRIPT_DIR/generate-html.sh"
 fi
 cp "$VIEWER_SRC" "$VIEWER_DST"
+
+# Generate + copy PDF/EPUB so the website bundle is self-contained.
+if [[ ! -f "$PDF_SRC" ]]; then
+  "$SCRIPT_DIR/generate-pdf.sh"
+fi
+cp "$PDF_SRC" "$PDF_DST"
+
+if [[ ! -f "$EPUB_SRC" ]]; then
+  "$SCRIPT_DIR/generate-epub.sh"
+fi
+cp "$EPUB_SRC" "$EPUB_DST"
+
+# Rewrite bundled viewer download links to point at local files in this bundle.
+export VIEWER_DST
+python3 - <<'PY'
+import os
+from pathlib import Path
+
+path = Path(os.environ["VIEWER_DST"])
+html = path.read_text(encoding="utf-8")
+
+replacements = {
+  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.pdf": "watching-the-unborn.pdf",
+  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.epub": "watching-the-unborn.epub",
+  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.html": "watching-the-unborn.html",
+}
+
+for old, new in replacements.items():
+    html = html.replace(old, new)
+
+path.write_text(html, encoding="utf-8")
+PY
 
 # Extract the Blurb section from the repo README and convert it to HTML
 BLURB_MD=$(awk 'BEGIN{p=0} /^##[[:space:]]+Blurb[[:space:]]*$/{p=1; next} /^##[[:space:]]+Genre[[:space:]]*$/{p=0} p{print}' "$README_SRC" | sed '/^[[:space:]]*$/N;/^\n$/D')
@@ -321,7 +358,11 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       transition: transform 0.2s ease, border-color 0.2s ease;
     }
 
-    .card:hover { transform: translateY(-3px); border-color: rgba(212,175,55,0.35); }
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(156, 196, 255, 0.35);
+      box-shadow: 0 0 26px rgba(156, 196, 255, 0.10);
+    }
 
     .kicker {
       color: var(--ember);
@@ -379,7 +420,6 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       <div class="brand"><a href="#top">Watching the Unborn</a></div>
       <div class="nav-links">
         <a href="#blurb">Blurb</a>
-        <a href="#story">Story</a>
         <a href="#themes">Themes</a>
         <a href="#download">Download</a>
       </div>
@@ -403,8 +443,8 @@ cat > "$OUTPUT_INDEX" << 'HTML'
         <div class="cta-row" id="download">
           <a class="btn btn-primary" href="watching-the-unborn.html">Read Online</a>
           <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
-          <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.pdf" target="_blank" rel="noopener">Download PDF</a>
-          <a class="btn" href="https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/watching-the-unborn.epub" target="_blank" rel="noopener">Download EPUB</a>
+          <a class="btn" href="watching-the-unborn.pdf" download="watching-the-unborn.pdf">Download PDF</a>
+          <a class="btn" href="watching-the-unborn.epub" download="watching-the-unborn.epub">Download EPUB</a>
           <a class="btn" href="https://github.com/joshSzep/watching-the-unborn" target="_blank" rel="noopener">Project Repo</a>
         </div>
       </div>
@@ -420,27 +460,6 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       <div class="subtitle">From the jacket copy</div>
       <h2>Blurb</h2>
       __BLURB_HTML__
-    </div>
-  </section>
-
-  <section id="story" class="section">
-    <div class="wrap premise">
-      <div class="subtitle">The Premise</div>
-      <h2>Three Centuries</h2>
-      <p>
-        Wren refuses to upload. She dies at ninety‑one.
-        Aria—uploaded, still young‑looking—inherits her daughter's private journals and learns what Wren never said aloud.
-      </p>
-      <p>
-        The eggs are no longer "a choice." They are what remains.
-        Aria watches over them through acquisitions, policy shifts, obsolescence, and close calls—until a stranger uses them.
-        Then she loses access.
-      </p>
-      <div class="pill-row">
-        <div class="pill"><strong>Probability</strong> over destiny</div>
-        <div class="pill"><strong>Maintenance</strong> over creation</div>
-        <div class="pill"><strong>Limits</strong> give meaning</div>
-      </div>
     </div>
   </section>
 
@@ -534,3 +553,5 @@ echo -e "${GREEN}Landing page generated:${NC} $OUTPUT_DIR"
 echo "- $OUTPUT_INDEX"
 echo "- $COVER_DST"
 echo "- $VIEWER_DST"
+echo "- $PDF_DST"
+echo "- $EPUB_DST"

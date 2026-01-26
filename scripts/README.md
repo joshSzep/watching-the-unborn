@@ -44,12 +44,12 @@ xelatex --version
 Runs all generation scripts in sequence. Use this for a complete build.
 
 **Output:**
-- `watching-the-unborn.pdf`
-- `watching-the-unborn.html`
-- `watching-the-unborn.epub`
-- `website/index.html`
-- `website/cover.png`
-- `website/watching-the-unborn.html`
+- `output/watching-the-unborn.pdf`
+- `output/watching-the-unborn.html`
+- `output/watching-the-unborn.epub`
+- `output/website/index.html`
+- `output/website/cover.png`
+- `output/website/watching-the-unborn.html`
 
 ---
 
@@ -73,7 +73,7 @@ Generates a professionally typeset PDF suitable for print or digital reading.
 
 Generates a self-contained HTML viewer with a book-like reading experience.
 
-**Output:** `watching-the-unborn.html` (in repository root, ~3MB)
+**Output:** `output/watching-the-unborn.html` (~3MB)
 
 **Features:**
 - Cover image embedded as base64
@@ -94,7 +94,7 @@ Generates a self-contained HTML viewer with a book-like reading experience.
 
 Generates an EPUB for e-readers and offline reading apps.
 
-**Output:** `watching-the-unborn.epub` (in repository root)
+**Output:** `output/watching-the-unborn.epub`
 
 **Notes:**
 - Uses `cover.png` as the EPUB cover when available
@@ -106,7 +106,7 @@ Generates an EPUB for e-readers and offline reading apps.
 
 Combines all chapter files into a single `MANUSCRIPT.md` file. Called automatically by other scripts.
 
-**Output:** `MANUSCRIPT.md` (in repository root)
+**Output:** `output/watching-the-unborn.md`
 
 **How it works:**
 1. Reads chapters from `chapters/Part N - */Chapter NN - *.md`
@@ -120,15 +120,17 @@ Combines all chapter files into a single `MANUSCRIPT.md` file. Called automatica
 Generates a simple static landing page bundle you can zip and upload to Cloudflare Pages / static hosting.
 
 **Output:**
-- `website/index.html`
-- `website/cover.png`
-- `website/watching-the-unborn.html`
+- `output/website/index.html`
+- `output/website/cover.png`
+- `output/website/watching-the-unborn.html`
+- `output/website/watching-the-unborn.pdf`
+- `output/website/watching-the-unborn.epub`
 
 **Notes:**
 - The HTML is self-contained (inline CSS) and expects `cover.png` and `watching-the-unborn.html` alongside it.
 - “Read Online” opens the bundled `website/watching-the-unborn.html` viewer.
 - “Download HTML” downloads the bundled viewer.
-- PDF/EPUB buttons link to the hosted GitHub raw PDF/EPUB.
+- PDF/EPUB are vendored into the bundle and linked locally.
 
 ---
 
@@ -203,12 +205,13 @@ sudo tlmgr install microtype fancyhdr
 
 ```
 ./
-├── watching-the-unborn.pdf   # Generated PDF
-├── watching-the-unborn.html  # Generated HTML viewer
-├── watching-the-unborn.epub  # Generated EPUB
-├── MANUSCRIPT.md             # Combined manuscript (generated)
 ├── cover.png                 # Cover art (embedded in HTML)
-├── website/                  # Static landing page bundle (generated)
+├── output/                   # Generated artifacts
+│   ├── watching-the-unborn.pdf   # Generated PDF
+│   ├── watching-the-unborn.html  # Generated HTML viewer
+│   ├── watching-the-unborn.epub  # Generated EPUB
+│   ├── watching-the-unborn.md    # Combined manuscript (generated)
+│   └── website/                  # Static landing page bundle (generated)
 └── scripts/
     ├── generate-all.sh       # Generate all formats
     ├── generate-pdf.sh       # Generate PDF
