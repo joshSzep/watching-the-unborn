@@ -5,12 +5,14 @@ This directory contains scripts for generating publishable formats of *Watching 
 ## Quick Start
 
 ```bash
-# Generate all formats (PDF + HTML)
+# Generate all formats (PDF + HTML + EPUB + website bundle)
 ./scripts/generate-all.sh
 
 # Or generate individually
 ./scripts/generate-pdf.sh
 ./scripts/generate-html.sh
+./scripts/generate-epub.sh
+./scripts/generate-landing-page.sh
 ```
 
 ## Prerequisites
@@ -45,6 +47,9 @@ Runs all generation scripts in sequence. Use this for a complete build.
 - `watching-the-unborn.pdf`
 - `watching-the-unborn.html`
 - `watching-the-unborn.epub`
+- `website/index.html`
+- `website/cover.png`
+- `website/watching-the-unborn.html`
 
 ---
 
@@ -79,6 +84,7 @@ Generates a self-contained HTML viewer with a book-like reading experience.
 - Reading progress saved to localStorage
 - PDF download link for offline reading
 - EPUB download link for offline reading
+- HTML download link for offline reading
 - Beautiful typography (Cormorant Garamond)
 - Dark background with paper-like pages
 
@@ -106,6 +112,23 @@ Combines all chapter files into a single `MANUSCRIPT.md` file. Called automatica
 1. Reads chapters from `chapters/Part N - */Chapter NN - *.md`
 2. Combines them in order with part and chapter headings
 3. Outputs a single unified markdown file
+
+---
+
+### `generate-landing-page.sh`
+
+Generates a simple static landing page bundle you can zip and upload to Cloudflare Pages / static hosting.
+
+**Output:**
+- `website/index.html`
+- `website/cover.png`
+- `website/watching-the-unborn.html`
+
+**Notes:**
+- The HTML is self-contained (inline CSS) and expects `cover.png` and `watching-the-unborn.html` alongside it.
+- “Read Online” opens the bundled `website/watching-the-unborn.html` viewer.
+- “Download HTML” downloads the bundled viewer.
+- PDF/EPUB buttons link to the hosted GitHub raw PDF/EPUB.
 
 ---
 
@@ -185,11 +208,13 @@ sudo tlmgr install microtype fancyhdr
 ├── watching-the-unborn.epub  # Generated EPUB
 ├── MANUSCRIPT.md             # Combined manuscript (generated)
 ├── cover.png                 # Cover art (embedded in HTML)
+├── website/                  # Static landing page bundle (generated)
 └── scripts/
     ├── generate-all.sh       # Generate all formats
     ├── generate-pdf.sh       # Generate PDF
     ├── generate-html.sh      # Generate HTML viewer
     ├── generate-epub.sh      # Generate EPUB
+    ├── generate-landing-page.sh # Generate static landing page bundle
     ├── generate-manuscript.sh # Combine chapters
     ├── metadata.yaml         # PDF settings
     └── README.md             # This file
