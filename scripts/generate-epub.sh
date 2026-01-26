@@ -36,7 +36,8 @@ PANDOC_ARGS=(
     --from=markdown
     --to=epub3
     --toc
-    --toc-depth=2
+    --toc-depth=3
+    --split-level=2
     --metadata title="Watching the Unborn"
     --metadata author="Joshua Szepietowski"
     --metadata lang="en-US"
