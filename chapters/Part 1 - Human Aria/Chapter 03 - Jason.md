@@ -72,11 +72,17 @@ Jason set down his chopsticks. "I had what you might call a crisis of faith. Or 
 
 "What happened?"
 
-"I woke up one morning and realized I didn't want to spend the rest of my life watching numbers on a screen." He said it simply, without drama. "I'd been doing it for fifteen years. I was good at it. And I hated every minute. So I stopped."
+Jason set his glass down. For a moment his face changed—something beneath the surface shifting, the way a pond goes dark when a cloud passes over.
 
-"Just like that?"
+"I woke up one morning and I couldn't move." He said it simply, but the simplicity felt wrong. Rehearsed. "Not physically. I just—lay there. Looking at the ceiling. Thinking about how I was going to watch numbers on a screen for another thirty years until I died, and how that was going to be my life, the whole thing, and how I had no one to blame but myself because I'd chosen it."
 
-"Not just like that. I spent a year trying to figure out what else to do. I meditated. I read. I sat with the discomfort of not knowing." He smiled. "And then I became a beekeeper."
+"That sounds—"
+
+"It sounds like depression. It was depression." He picked up the glass again but didn't drink. "I didn't get out of bed for three days. Didn't eat. Didn't answer the phone. Just lay there, running the numbers. The probability that anything would ever feel meaningful again. The expected value of continuing." He looked at Aria, and something in his eyes was harder than she'd expected. "The math wasn't good."
+
+"I'm sorry. I didn't mean to—"
+
+"It's fine. It was a long time ago." But his hand on the glass wasn't quite steady. "I spent a year after that trying to figure out what else to do. Meditation. Therapy. A lot of sitting with things I didn't want to look at." The hardness softened slightly. "And then I became a beekeeper."
 
 Aria blinked. "A beekeeper."
 

@@ -12,21 +12,21 @@ He laughed, a dry sound. "There's only one version. I just don't tell all of it.
 
 He was quiet for a moment. The light behind him was gray—winter now, the garden dormant, the bees clustered in their hives waiting for spring. A spring he might not see.
 
-"I was good at it," he said finally. "Really good. I had a gift for pattern recognition—I could look at a chart and see things other people couldn't. The inflection points. The moments when everything was about to shift."
+"I told you I was good at it," he said finally. "I didn't tell you how good. I made more money in my thirties than most people make in a lifetime. And I spent most of it on coke and women and a penthouse I hated."
 
-"That sounds useful."
+I blinked. This was new. This was not the version of Jason I had constructed.
 
-"It was lucrative. For a while." He shifted in his chair, and I saw the wince he tried to hide. "But the thing about patterns is—once you start seeing them, you can't stop. I saw them in the markets. Then I saw them in conversations, in relationships, in the way people moved through the world. Everything became a system to be analyzed, a puzzle to be solved."
+"I thought you said alcohol—"
 
-"That doesn't sound so bad."
+"Alcohol was part of it. The alcohol came later, when I was trying to come down. But the real thing was the high. Not the drugs—the trading. The moment when you see the pattern before anyone else and you put everything on the line and you're right." His voice had changed, taken on an edge I didn't recognize. "That's the addiction, Aria. Not the substances. The feeling of being smarter than everyone else in the room. The certainty."
 
-"It wasn't bad. It was empty." He looked at me. "I could predict what people would do, but I couldn't connect with them. I could see the patterns in my own life, but I couldn't change them. I was watching everything from the outside, calculating odds, never actually present."
+"And then you hit bottom."
 
-I felt something shift in my chest. The words were landing somewhere tender.
+"And then I hit bottom." He looked at me. "I've told you that story. What I didn't tell you is that I still miss it. Every day. Thirty years later, and there's still a part of me that wants to go back to that penthouse and watch the numbers and feel that high again."
 
-"That's why you hit bottom," I said.
+"But you don't."
 
-"That's part of it. The other part—" He paused. "The other part was that I started to see the pattern of my own ending. The trajectory. Where I was headed if nothing changed. And I realized that I was going to die without ever having been fully alive."
+"I don't. Because I know what happens next. But the wanting—" He shook his head. "The wanting never goes away. The Buddhist teachers don't tell you that part. They talk about liberation and release, but they don't mention that some hungers just become quieter. They don't leave."
 
 ---
 
@@ -110,25 +110,43 @@ I watched him the way I had watched Wren—through a screen, from a distance, he
 
 "Are you afraid?" I asked him, near the end.
 
-"Sometimes. Less than I expected." He was lying down now, the camera adjusted so I could see his face against the pillow. "Fear comes and goes. It's just another pattern, another thing to notice and let pass."
+"Yes." The word came out flat. Final. "I'm terrified. I have been for weeks."
 
-"I don't know how you do that. Notice it and let it pass."
+"But you said—the practice—"
 
-"Practice. Decades of practice." He smiled, and it was the same smile he'd had when I first met him—warm, slightly crooked, full of something I could only call kindness. "And honestly? The fear isn't as bad as I thought it would be. It's the anticipation that's hard. The actual thing—" He shrugged, a small movement against the sheets. "The actual thing is just what's happening. No more, no less."
+"The practice helps. Sometimes. Other times—" He closed his eyes. "Other times I lie awake at three in the morning and I can't breathe because I'm thinking about not existing. About the dark. About everything just stopping." He opened his eyes. "I've been meditating for thirty years, Aria. And right now, facing the real thing, I'm just as scared as anyone else."
+
+"I thought—"
+
+"I know what you thought. I thought it too." He laughed, but it was a tired sound. "I thought that if I practiced long enough, accepted deeply enough, the fear would transform into something else. Peace. Surrender. Some kind of final wisdom." He shook his head. "It hasn't. It's just fear. Plain and simple. The same fear everyone feels."
+
+"Then what's the point? Of all of it—the practice, the sitting, the letting go?"
+
+"I don't know." He said it like a confession. "Maybe there isn't one. Maybe I spent thirty years building a boat that doesn't float." He was quiet for a moment. "Or maybe the point is just to keep practicing anyway. Even when it doesn't work. Even when you're just as scared as you were before. Because the alternative is to stop practicing, and that's worse."
+
+"Is it?"
+
+"I think so. I hope so." He looked at me with something like desperation. "I need it to be worth something, Aria. All of it. The years I spent sitting on cushions instead of living. The certainty I gave up, the money I walked away from. If it was all for nothing—" He stopped. "I can't think about that. It's too much."
 
 "I wish I could be there with you."
 
-"You are. Right now, you're here. This is being here." He reached toward the screen, the gesture slow and effortful. "This is all there is, Aria. This moment. This conversation. This connection between us. The past is memory. The future is imagination. But this—this is real."
+"I know. I wish you could too." He was lying down now, the camera adjusted so I could see his face against the pillow. "These screens—" He gestured weakly. "Thirty years of talking through glass. It's something. But it's not enough."
 
-I put my hand up to match his, the way I had done with Wren so many times. Digital hand against glass, the echo of a touch that couldn't happen.
+"It's what we have."
 
-"Thank you," I said. "For all of this. For staying as long as you could."
+"It's what we have." He was quiet for a moment. "I'm sorry I can't be wiser for you, Aria. I wanted to be. I thought by the end I'd have figured something out, have something profound to give you. But I don't. I'm just scared, and tired, and ready for it to be over."
 
-"Thank you for letting me." He lowered his hand. "You're going to be okay, you know. Not immediately. Not easily. But eventually. You're going to find your way."
+"That's honest. That's something."
 
-"How do you know?"
+"It's something." He reached toward the screen, the gesture slow and effortful, and I put my hand up to match his. "I do believe you're going to be okay. Not because I have any evidence. Just because I need to believe something, and that's what I'm choosing."
 
-"I don't. I just believe it." He closed his eyes. "Faith isn't certainty, Aria. It's choosing to act as if something is true, even when you can't prove it. I have faith that you'll find your way. That's all. That's enough."
+"Faith."
+
+"Faith. Or desperation. Same thing, maybe, at the end." He lowered his hand. "Take care of the bees. And take care of yourself. And maybe—" He paused. "Maybe the practice will work better for you than it did for me. Maybe you'll find something I couldn't find."
+
+"Or maybe I won't."
+
+"Or maybe you won't." He smiled, and it was a tired smile, nothing like the serene acceptance I had expected from him. "Either way. You'll keep going. That's what matters. Not the enlightenment. Just the continuing."
 
 ---
 

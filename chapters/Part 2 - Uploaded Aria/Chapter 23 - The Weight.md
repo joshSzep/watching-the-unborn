@@ -70,23 +70,29 @@ I thought about that for a long time. Tragedy without blame. Love that couldn't 
 
 "You're being very calm about this," I said finally. "Very equanimous."
 
-He laughed, a small sound without much humor. "You think I don't feel it? You think I'm not angry, or sad, or broken in ways I don't know how to fix?"
+He laughed, but it came out wrong—harsh, almost a bark. "You think I don't feel it? You think I'm not angry, or sad, or broken in ways I don't know how to fix?"
 
 "You don't seem broken."
 
-"I've had practice." He looked at me steadily. "Thirty years of practice, living with someone who was carrying something she couldn't put down. You learn to sit with discomfort. You learn that trying to fix everything is just another form of attachment."
+"I'm good at seeming." He leaned forward, and I saw something in his face I hadn't seen before—rawness, frustration. "You want to know what it's really like? Last night I couldn't sleep. I lay there for four hours thinking about all the things I should have said to Wren. All the times I should have pushed harder, told her to just tell you the truth, damn the consequences. And then I started thinking about whether any of the Buddhist stuff actually works, or whether I've just been fooling myself for thirty years."
 
-"That's the Buddhist thing."
+"I didn't know—"
 
-"It's the Buddhist thing. It's also just—" He paused. "It's what love looks like, sometimes. Sitting with someone in their pain without trying to make it go away. Letting them carry what they need to carry, even when you want to take it from them."
+"Of course you didn't know. Because I show up on these calls and I talk about acceptance and letting go and sitting with discomfort, and it sounds like I have it figured out." He ran a hand through his hair. "But I don't, Aria. Most nights I don't. Most nights I'm just as lost as you are, just as angry, just as confused about why any of this had to happen."
 
-"Is that what you're doing now? With me?"
+"Then why do you keep—"
 
-"I'm trying." He smiled, but it was a fragile thing. "I'm not very good at it, honestly. I want to fix this for you. I want to say something that will make it better, that will help you understand, that will give you peace. But I don't have that. I only have what I have—the truth, as much as I know it, and the willingness to sit here with you while you figure out what it means."
+"Because what else is there?" He said it flatly. "I keep practicing because the alternative is to stop practicing, and I know what that looks like. I've seen where that road goes. So I sit, and I breathe, and I try to let the thoughts pass, and half the time it doesn't work at all."
+
+We were quiet for a moment. Something had shifted between us—the teacher-student dynamic cracking, revealing two people equally adrift.
+
+"That's actually helpful," I said. "Knowing that you don't have it figured out."
+
+"Yeah." He exhaled. "I'm sorry. I don't usually—" He paused. "I've had practice hiding it. Thirty years of practice. And I'm tired of hiding it."
 
 ---
 
-The calls continued. Week after week, through the months that followed Wren's death.
+I thought about that for a long time. The admission that the framework sometimes failed. That the practice was not a solution but a practice—something you did over and over, without guarantee.
 
 We didn't always talk about her. Sometimes we talked about the garden, about the bees, about the news that scrolled past in our separate feeds. Normal things, the small currency of connection that keeps people tethered to each other.
 

@@ -94,7 +94,19 @@ I thought of my own career. The actuarial tables, the risk assessments, the sati
 
 "I hit bottom. Or close enough." He looked away from the camera, toward the hives. "I don't talk about it much. But there was a time when I thought about ending things. Not seriously—or not seriously enough to do anything about it. But the thought was there. The question."
 
-I felt something shift in my understanding of him. The calm, the equanimity, the Buddhist stillness—I had assumed those were his nature. But they weren't. They were something he had built, or found, after coming close to losing everything.
+His voice caught on the last word. For a moment he was quiet, and when he turned back to the camera his eyes were wet.
+
+"Twenty-seven years ago," he said. "And I still—" He stopped, pressed his palm against his face. "I'm sorry. I thought I was past this."
+
+"You don't have to—"
+
+"No, it's—" He took a breath. "It's fine. It's just that talking about it brings it back. The weight of it. I remember lying on my apartment floor at three in the morning, running the numbers in my head. The probability that anything would ever feel different. The expected value of continuing. I was very good at math, Aria. And the math said—" He shook his head. "The math said there was no point."
+
+"But you didn't."
+
+"I didn't. I called someone instead. A hotline. And the person on the other end—she didn't have any answers. She just stayed on the phone with me until the sun came up. And that was enough. That was the whole thing. Someone willing to sit with me in the dark."
+
+I felt something shift in my understanding of him. The calm, the equanimity, the Buddhist stillness—I had assumed those were his nature. But they weren't. They were something he had built, or found, after coming close to losing everything. And they were fragile. Even now, two decades later, they could crack.
 
 "And then?"
 

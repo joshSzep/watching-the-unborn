@@ -84,15 +84,35 @@ There was the way Jason could retreat into silence for days, his body present bu
 
 There was also the matter of the phone. Aria noticed it one evening—Jason at the dinner table, his attention flicking to the screen in his hand, his thumb scrolling through something she couldn't see. Wren noticed too, her lips pressing together in a way that suggested this was not the first time.
 
-"The markets are volatile," Jason said, not looking up. "I just want to see what's happening."
+"Jason."
 
-"You don't trade anymore."
+He didn't look up. His thumb kept moving.
 
-"I know. I'm just looking."
+"Jason." Wren's voice was sharper now. "You said you'd leave it in the car."
 
-"You're always just looking."
+"I know. I just—" He was still looking at the screen. "The volatility index is—"
 
-He put the phone away then, his face flushing slightly, and the dinner continued as if nothing had happened. But Aria remembered it afterward—the way his eyes had looked at those numbers, hungry and guilty at the same time. A recovering alcoholic looking at a drink he wasn't going to take.
+"I don't care what the volatility index is." Wren reached across the table and put her hand over the phone. "You're not in the market anymore. You haven't been in the market for fifteen years."
+
+"I know that." Jason's voice had an edge Aria hadn't heard before. "I'm not trading. I'm just looking."
+
+"You're always just looking. You said that last week. And the week before." Wren's hand stayed on the phone. "This is what it looks like, isn't it? The thing you said you'd never do again."
+
+Something passed across Jason's face—a flash of something raw. Shame, maybe. Or anger. "It's not the same."
+
+"Then why can't you stop?"
+
+He didn't have an answer. After a moment he slid the phone out from under Wren's hand and put it in his pocket. His movements were careful, controlled, the way someone moves when they're trying very hard not to react.
+
+"I'm sorry," he said. "You're right."
+
+"I know I'm right." Wren's voice had softened, but her eyes were tired. "I've watched you do this three times now. The markets spike, and you disappear into that screen, and I lose you for a week."
+
+"You don't lose me."
+
+"I lose the part of you that's here. The part that's present." She looked at him steadily. "That's the part I need, Jason. That's the part I married."
+
+The dinner continued after that, the conversation finding its way back to safer ground. But Aria remembered it afterward—the way Jason's hand had shaken slightly when he put the phone away, the way his eyes had kept flicking to his pocket. A recovering alcoholic sitting in a bar, telling himself he was just there for the atmosphere.
 
 ---
 
