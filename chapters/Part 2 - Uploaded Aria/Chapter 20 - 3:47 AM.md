@@ -131,23 +131,31 @@ That night, I opened the journals.
 
 Not all of them. Just the first entry, dated 2088. The year she found Buddhism. The year before she met Jason. The year she began writing down the things she couldn't say aloud.
 
-*I've started keeping a journal. My therapist suggested it—a place to put the thoughts that don't fit anywhere else. The thoughts I can't tell Mom, can't tell Bryce, can't tell anyone.*
+*Started a journal. Dr. Kim's idea. Write down the stuff I can't say out loud, she said. Okay. Here goes.*
 
-*Here's the first one: I don't think I want children.*
+*I don't want kids.*
 
-*I've never said that out loud. I've barely let myself think it. But it's true. I look at my friends with their babies, their toddlers, their endless exhaustion and joy, and I feel nothing. Not the pull that's supposed to be there. Not the longing.*
+*There. Said it. Written it. Whatever.*
 
-*Mom asks about grandchildren every time we talk. She doesn't say it directly—she's too careful for that—but it's in her questions, her suggestions, her little comments about the future. She wants me to want what she wanted. And I can't tell her that I don't.*
+*Everyone assumes I do. Mom especially. She drops these little hints—"when you have children," not "if." Like it's already decided. Like I'm just waiting for the right time.*
 
-*Maybe this will change. Maybe I'll wake up one day and feel differently. But right now, in this moment, I know: I don't want to be a mother. I don't want to continue the line.*
+*I'm not waiting. I just don't want it.*
 
-*I just want to be here, in this life, for as long as it lasts. And then I want to be done.*
+*Saw Megan's baby last week. Everyone crowded around, making faces, that cooing thing people do. And I felt... nothing? Not even nothing. Like watching someone else's hobby. Oh, you're into model trains. Good for you.*
+
+*Is something wrong with me? The books say maternal instinct is biological. Hormones. Evolution. So what, mine are broken?*
+
+*Or maybe—*
+
+*I don't know. This is stupid. I don't know what I'm supposed to write.*
+
+*Tomorrow: dentist at 2. Call Mom back about Thanksgiving.*
 
 I stopped reading.
 
-The words sat on the screen, stark and undeniable. The first entry. The first truth. The foundation of everything that would come after.
+The words sat on the screen. Not the polished confession I had expected—just fragments. Starts and stops. The voice of someone talking to herself, uncertain, not yet knowing what she believed.
 
-She had never wanted children. She had known it in 2088, two years before the eggs, thirty years before my upload, sixty-three years before her death. She had known, and she had never told me, and I had spent three decades watching over something she had never wanted in the first place.
+She had never wanted children. She had known it in 2088. And I had spent three decades watching over something she had never wanted in the first place.
 
 The eggs. The clinic. The dashboard. The vigil.
 
