@@ -46,7 +46,7 @@ Runs all generation scripts in sequence. Use this for a complete build.
 **Output:**
 - `output/watching-the-unborn.pdf`
 - `output/watching-the-unborn.html`
-- `output/watching-the-unborn.epub`
+- `Watching The Unborn.epub`
 - `output/website/index.html`
 - `output/website/cover.png`
 - `output/website/watching-the-unborn.html`
@@ -94,7 +94,7 @@ Generates a self-contained HTML viewer with a book-like reading experience.
 
 Generates an EPUB for e-readers and offline reading apps.
 
-**Output:** `output/watching-the-unborn.epub`
+**Output:** `Watching The Unborn.epub` (in repository root)
 
 **Notes:**
 - Uses `cover.png` as the EPUB cover when available
@@ -124,7 +124,7 @@ Generates a simple static landing page bundle you can zip and upload to Cloudfla
 - `output/website/cover.png`
 - `output/website/watching-the-unborn.html`
 - `output/website/watching-the-unborn.pdf`
-- `output/website/watching-the-unborn.epub`
+- `output/website/Watching The Unborn.epub`
 
 **Notes:**
 - The HTML is self-contained (inline CSS) and expects `cover.png` and `watching-the-unborn.html` alongside it.
@@ -209,7 +209,7 @@ sudo tlmgr install microtype fancyhdr
 ├── output/                   # Generated artifacts
 │   ├── watching-the-unborn.pdf   # Generated PDF
 │   ├── watching-the-unborn.html  # Generated HTML viewer
-│   ├── watching-the-unborn.epub  # Generated EPUB
+│   ├── Watching The Unborn.epub  # Generated EPUB
 │   ├── watching-the-unborn.md    # Combined manuscript (generated)
 │   └── website/                  # Static landing page bundle (generated)
 └── scripts/

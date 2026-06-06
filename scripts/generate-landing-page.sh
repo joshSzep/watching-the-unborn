@@ -16,8 +16,9 @@ VIEWER_SRC="$OUTPUT_ROOT/watching-the-unborn.html"
 VIEWER_DST="$OUTPUT_DIR/watching-the-unborn.html"
 PDF_SRC="$OUTPUT_ROOT/watching-the-unborn.pdf"
 PDF_DST="$OUTPUT_DIR/watching-the-unborn.pdf"
-EPUB_SRC="$OUTPUT_ROOT/watching-the-unborn.epub"
-EPUB_DST="$OUTPUT_DIR/watching-the-unborn.epub"
+EPUB_NAME="Watching The Unborn.epub"
+EPUB_SRC="$REPO_ROOT/$EPUB_NAME"
+EPUB_DST="$OUTPUT_DIR/$EPUB_NAME"
 ZIP_DST="$OUTPUT_ROOT/website.zip"
 README_SRC="$REPO_ROOT/README.md"
 
@@ -77,7 +78,10 @@ html = path.read_text(encoding="utf-8")
 
 replacements = {
   "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.pdf": "watching-the-unborn.pdf",
-  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.epub": "watching-the-unborn.epub",
+  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.epub": "Watching%20The%20Unborn.epub",
+  "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/Watching%20The%20Unborn.epub": "Watching%20The%20Unborn.epub",
+  "https://watching-the-unborn.joshszep.com/watching-the-unborn.epub": "Watching%20The%20Unborn.epub",
+  "https://watching-the-unborn.joshszep.com/Watching%20The%20Unborn.epub": "Watching%20The%20Unborn.epub",
   "https://raw.githubusercontent.com/joshSzep/watching-the-unborn/main/output/watching-the-unborn.html": "watching-the-unborn.html",
 }
 
@@ -445,7 +449,7 @@ cat > "$OUTPUT_INDEX" << 'HTML'
           <a class="btn btn-primary" href="watching-the-unborn.html">Read Online</a>
           <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
           <a class="btn" href="watching-the-unborn.pdf" download="watching-the-unborn.pdf">Download PDF</a>
-          <a class="btn" href="watching-the-unborn.epub" download="watching-the-unborn.epub">Download EPUB</a>
+          <a class="btn" href="Watching%20The%20Unborn.epub" download="Watching The Unborn.epub">Download EPUB</a>
           <a class="btn" href="https://github.com/joshSzep/watching-the-unborn" target="_blank" rel="noopener">Project Repo</a>
         </div>
       </div>

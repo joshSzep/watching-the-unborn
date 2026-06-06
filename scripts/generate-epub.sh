@@ -9,7 +9,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 OUTPUT_DIR="$REPO_ROOT/output"
 MANUSCRIPT="$OUTPUT_DIR/watching-the-unborn.md"
-OUTPUT_EPUB="$OUTPUT_DIR/watching-the-unborn.epub"
+OUTPUT_EPUB="$REPO_ROOT/Watching The Unborn.epub"
 COVER_IMAGE="$REPO_ROOT/cover.png"
 
 # Colors for output
@@ -44,6 +44,7 @@ PANDOC_ARGS=(
     --metadata title="Watching the Unborn"
     --metadata author="Joshua Szepietowski"
     --metadata lang="en-US"
+    --resource-path="$REPO_ROOT"
     -o "$OUTPUT_EPUB"
 )
 
