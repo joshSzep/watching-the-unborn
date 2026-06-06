@@ -115,6 +115,8 @@ cat > "$OUTPUT_INDEX" << 'HTML'
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Watching the Unborn | A Novel by Joshua Szepietowski</title>
   <meta name="description" content="An actuary uploads her mind at eighty-five to buy more time with her daughter. After her daughter refuses to upload and dies, the mother becomes custodian to frozen eggs for three centuries." />
+  <link rel="icon" type="image/png" href="cover.png" />
+  <link rel="apple-touch-icon" href="cover.png" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
