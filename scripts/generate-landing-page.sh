@@ -21,6 +21,7 @@ EPUB_SRC="$REPO_ROOT/$EPUB_NAME"
 EPUB_DST="$OUTPUT_DIR/$EPUB_NAME"
 ZIP_DST="$OUTPUT_ROOT/website.zip"
 README_SRC="$REPO_ROOT/README.md"
+CHAPTER_ONE_SRC="$REPO_ROOT/chapters/Part 1 - Human Aria/Chapter 01 - Waiting.md"
 
 # Colors for output
 RED='\033[0;31m'
@@ -39,6 +40,12 @@ fi
 if [[ ! -f "$README_SRC" ]]; then
   echo -e "${RED}Error: README.md not found at repo root.${NC}"
   echo "Expected: $README_SRC"
+  exit 1
+fi
+
+if [[ ! -f "$CHAPTER_ONE_SRC" ]]; then
+  echo -e "${RED}Error: Chapter 1 markdown not found.${NC}"
+  echo "Expected: $CHAPTER_ONE_SRC"
   exit 1
 fi
 
@@ -94,6 +101,10 @@ PY
 # Extract the Blurb section from the repo README and convert it to HTML
 BLURB_MD=$(awk 'BEGIN{p=0} /^##[[:space:]]+Blurb[[:space:]]*$/{p=1; next} /^##[[:space:]]+Genre[[:space:]]*$/{p=0} p{print}' "$README_SRC" | sed '/^[[:space:]]*$/N;/^\n$/D')
 BLURB_HTML=$(printf "%s\n" "$BLURB_MD" | pandoc -f markdown -t html --wrap=none)
+
+# Convert the first chapter to HTML for the landing page sample.
+CHAPTER_ONE_MD=$(sed '1{/^# /d;}' "$CHAPTER_ONE_SRC")
+CHAPTER_ONE_HTML=$(printf "%s\n" "$CHAPTER_ONE_MD" | pandoc -f markdown -t html --wrap=none)
 
 # Write landing page HTML
 cat > "$OUTPUT_INDEX" << 'HTML'
@@ -328,6 +339,59 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       margin-bottom: 14px;
     }
 
+    .chapter-layout {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    .chapter-header {
+      text-align: center;
+      margin-bottom: 36px;
+    }
+
+    .chapter-deck {
+      color: #b7c7dd;
+      font-family: var(--font-quote);
+      font-style: italic;
+      font-size: 1.12rem;
+      max-width: 62ch;
+      margin: 0 auto;
+    }
+
+    .chapter-reader {
+      border-top: 1px solid rgba(156, 196, 255, 0.24);
+      border-bottom: 1px solid rgba(156, 196, 255, 0.18);
+      padding: 42px 0 30px;
+    }
+
+    .chapter-reader p {
+      color: #dbe8fb;
+      font-family: var(--font-quote);
+      font-size: 1.08rem;
+      line-height: 1.85;
+      margin: 0 0 1.18em;
+    }
+
+    .chapter-reader em {
+      color: #f1f7ff;
+    }
+
+    .chapter-reader hr {
+      border: 0;
+      width: 72px;
+      height: 1px;
+      margin: 34px auto;
+      background: rgba(156, 196, 255, 0.35);
+    }
+
+    .chapter-actions {
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 30px;
+    }
+
     .pill-row {
       display: flex;
       justify-content: center;
@@ -425,6 +489,7 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       <div class="brand"><a href="#top">Watching the Unborn</a></div>
       <div class="nav-links">
         <a href="#blurb">Blurb</a>
+        <a href="#chapter-one">Chapter 1</a>
         <a href="#themes">Themes</a>
         <a href="#download">Download</a>
       </div>
@@ -447,6 +512,7 @@ cat > "$OUTPUT_INDEX" << 'HTML'
 
         <div class="cta-row" id="download">
           <a class="btn btn-primary" href="watching-the-unborn.html">Read Online</a>
+          <a class="btn" href="#chapter-one">Read Chapter 1</a>
           <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
           <a class="btn" href="watching-the-unborn.pdf" download="watching-the-unborn.pdf">Download PDF</a>
           <a class="btn" href="Watching%20The%20Unborn.epub" download="Watching The Unborn.epub">Download EPUB</a>
@@ -466,6 +532,28 @@ cat > "$OUTPUT_INDEX" << 'HTML'
       <div class="subtitle">From the jacket copy</div>
       <h2>Blurb</h2>
       __BLURB_HTML__
+    </div>
+  </section>
+
+  <section id="chapter-one" class="section">
+    <div class="wrap chapter-layout">
+      <div class="chapter-header">
+        <div class="subtitle">Read the opening chapter</div>
+        <h2>Chapter 1: Waiting</h2>
+        <p class="chapter-deck">
+          The novel begins before the centuries, in an ordinary clinic waiting room,
+          where potential first becomes something to preserve.
+        </p>
+      </div>
+
+      <article class="chapter-reader" aria-label="Chapter 1: Waiting">
+        __CHAPTER_ONE_HTML__
+      </article>
+
+      <div class="chapter-actions">
+        <a class="btn btn-primary" href="watching-the-unborn.html">Continue Reading</a>
+        <a class="btn" href="#download">Download the Book</a>
+      </div>
     </div>
   </section>
 
@@ -537,6 +625,7 @@ HTML
 
 # Inject the README blurb HTML into the generated page
 export BLURB_HTML
+export CHAPTER_ONE_HTML
 export OUTPUT_INDEX
 python3 - <<'PY'
 import os
@@ -548,10 +637,14 @@ if not path:
 
 content = path.read_text(encoding='utf-8')
 blurb = os.environ.get('BLURB_HTML', '').strip()
+chapter_one = os.environ.get('CHAPTER_ONE_HTML', '').strip()
 if '__BLURB_HTML__' not in content:
   raise SystemExit('Blurb placeholder not found in index.html')
+if '__CHAPTER_ONE_HTML__' not in content:
+  raise SystemExit('Chapter 1 placeholder not found in index.html')
 
 content = content.replace('__BLURB_HTML__', blurb)
+content = content.replace('__CHAPTER_ONE_HTML__', chapter_one)
 path.write_text(content, encoding='utf-8')
 PY
 
