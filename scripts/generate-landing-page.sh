@@ -450,6 +450,7 @@ cat > "$OUTPUT_INDEX" << 'HTML'
           <a class="btn" href="watching-the-unborn.html" download="watching-the-unborn.html" data-download-html>Download HTML</a>
           <a class="btn" href="watching-the-unborn.pdf" download="watching-the-unborn.pdf">Download PDF</a>
           <a class="btn" href="Watching%20The%20Unborn.epub" download="Watching The Unborn.epub">Download EPUB</a>
+          <a class="btn" href="https://joshszep.com" target="_blank" rel="noopener">Author Books</a>
           <a class="btn" href="https://github.com/joshSzep/watching-the-unborn" target="_blank" rel="noopener">Project Repo</a>
         </div>
       </div>
